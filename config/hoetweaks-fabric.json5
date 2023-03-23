@@ -1,0 +1,27 @@
+{
+	// When enabled, only allows the un-till function to work when the other hand is empty. Allows placing seeds with hoe in other hand.
+	"onlyUntillWithOtherHandEmpty": true,
+	// How much quicker a cropblock (pumpkin/melon) is broken than by default.
+	// min: 0.0, max: 20.0
+	"cropBlockBreakSpeedModifier": 8.0,
+	// Whether the bigger hoe range should only be used if the player is crouching when right-clicking the center block.
+	"mustCrouchToHaveBiggerHoeRange": true,
+	// The wooden hoe till range (default while crouching). 0 = 1x1
+	// min: 0, max: 32
+	"woodenTierHoeRange": 0,
+	// The wooden hoe till range (default while crouching). 1 = 3x3
+	// min: 0, max: 32
+	"stoneTierHoeRange": 0,
+	// The wooden hoe till range (default while crouching). 2 = 5x5
+	// min: 0, max: 32
+	"goldTierHoeRange": 0,
+	// The wooden hoe till range (default while crouching). 2 = 5x5
+	// min: 0, max: 32
+	"ironTierHoeRange": 0,
+	// The wooden hoe till range (default while crouching). 3 = 7x7
+	// min: 0, max: 32
+	"diamondTierHoeRange": 0,
+	// The wooden hoe till range (default while crouching). 4 = 9x9
+	// min: 0, max: 32
+	"netheriteTierHoeRange": 0
+}

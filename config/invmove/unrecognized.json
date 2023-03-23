@@ -1,0 +1,10 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+  }
+}

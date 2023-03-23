@@ -1,0 +1,100 @@
+{
+    /* This default config serves as an example on how to set up groups
+       Since these enchantments are mutually exclusive by default already
+       you will probably not notice any changes when enchanting.
+       Create your own enchantment groups here or expand on these defaults, if you wish
+    */
+    "protection": [
+        "minecraft:protection",
+        "minecraft:blast_protection",
+        "minecraft:fire_protection",
+        "minecraft:projectile_protection",
+		"magiccombatwands:magic_protection"
+	],
+    "melee_damage": [
+        "minecraft:bane_of_arthropods",
+		"incantationem:swine_bane",
+		"enchantmentsplus:cubical",
+		"enchantmentsplus:endslayer",
+		"enchantmentsplus:raider",
+		"extra_enchantments:fishermans_blade",
+        "minecraft:smite",
+        "minecraft:sharpness",
+		"musuen:laceration",
+		"musuen:berserker"
+    ],
+    "trident": [
+        "minecraft:channeling",
+        "minecraft:riptide"
+    ],
+    "crossbow": [
+        "minecraft:multishot",
+        "minecraft:piercing"
+    ],
+	"mining": [
+        "musuen:vein_miner",
+        "musuen:unearthing"
+    ],
+	"skewer1": [
+        "musuen:skewering",
+        "minecraft:impaling"
+    ],
+	"skewer2": [
+        "musuen:skewering",
+        "musuen:overcharged"
+    ],
+	"overcharged1": [
+        "musuen:overcharged",
+		"musuen:laceration"
+    ],
+	"overcharged2": [
+        "musuen:overcharged",
+		"musuen:skewering"
+    ],
+	"overcharged3": [
+        "musuen:overcharged",
+		"minecraft:impaling"
+    ],
+	"overcharged4": [
+        "musuen:overcharged",
+		"minecraft:power"
+    ],
+	"overcharged5": [
+        "musuen:overcharged",
+		"extra_enchantments:supercharge"
+    ],
+	"overcharged6": [
+        "musuen:overcharged",
+		"extra_enchantments:resonating_shot"
+    ],
+	"overcharged7": [
+        "musuen:overcharged",
+		"rangers_haven:sharpshooter"
+    ],
+	"overcharged8": [
+        "musuen:overcharged",
+		"fabricenchantments:shotgun"
+    ],
+	"overcharged9": [
+        "musuen:overcharged",
+		"fabricenchantments:sniper"
+    ],
+	"boots": [
+        "minecraft:feather_falling",
+		"musuen:sky_jump",
+		"musuen:long_jump"
+    ],
+	"freeze": [
+		"fabricenchantments:pyromania",
+		"extra_enchantments:freezing_aspect"
+	],
+	"elements": [
+		"fabricenchantments:pyromania",
+		"enchantmentsplus:frostbite"
+	],
+	"elements2": [
+		"minecraft:soul_fire_aspect",
+		"enchantmentsplus:frostbite",
+		"minecraft:fire_aspect"
+	]
+}

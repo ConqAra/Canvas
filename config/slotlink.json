@@ -1,0 +1,8 @@
+{
+    "autoFocusSearchBar": false,
+    "showCraftingGrid": true,
+    "sort": "COUNT_DESC",
+    "syncRecipeViewerSearch": false,
+    "pauseTransferWhenOnScreen": false,
+    "tryMergeStack": true
+}

@@ -1,0 +1,5 @@
+//Hit F3 + M to edit configs client side in game
+{
+  //Whether explosions from bow enchantments should destroy blocks
+  "explosion_griefing": true
+}

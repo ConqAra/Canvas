@@ -1,0 +1,5 @@
+vampireHudPlacement = "BOTTOM_RIGHT"
+vampireShaderEnabled = true
+brightAdjust = 1.0
+distortionAdjust = 1.0
+saturationAdjust = 1.0

@@ -1,0 +1,56 @@
+{
+  "Generic": {
+    "PRESETS": [
+      "trash\u003dbow,wooden_sword,wooden_shovel,wooden_pickaxe,rotten_flesh,string,arrow,wooden_axe,wooden_hoe,wheat_seeds,spider_eye,poisonous_potato,filled_map",
+      "junk\u003dsnow,lever,stone_pressure_plate,wooden_pressure_plate,stone_button,oak_trapdoor,oak_fence,ladder,oak_button,light_weighted_pressure_plate,heavy_weighted_pressure_plate,bowl,oak_stairs,cobblestone_stairs,stone_brick_stairs,oak_slab,sandstone_stairs,spruce_stairs,birch_stairs,jungle_stairs,cobblestone_wall,acacia_stairs,dark_oak_stairs,glass_pane,stained_glass_pane,white_carpet,stone_brick_slab,cobblestone_slab",
+      "nostackjunk\u003dwhite_bed,oak_door,oak_boat",
+      "tooljunk\u003dcarrot_on_a_stick,stone_shovel,stone_pickaxe,stone_axe,stone_hoe,golden_shovel,golden_pickaxe,golden_axe,golden_hoe,fishing_rod,diamond_hoe,stone_sword",
+      "ores\u003dredstone_block,redstone,gold_ore,iron_ore,coal_ore,lapis_ore,lapis_block,coal_block,gold_block,iron_block,diamond_ore,diamond_block,redstone_ore,emerald_ore,emerald_block,diamond,coal,iron_ingot,gold_ingot,emerald,gold_nugget,lapis_lazuli",
+      "food\u003dapple,mushroom_stew,bread,porkchop,cooked_porkchop,golden_apple,raw_cod,cooked_cod,cake,cookie,melon_slice,beef,cooked_beef,chicken,cooked_chicken,carrot,potato,baked_potato,pumpkin_pie,wheat,pumpkin_seeds,melon_seeds,pumpkin,melon",
+      "plants\u003doak_sapling,oak_leaves,tall_grass,dead_bush,dandelion,poppy,brown_mushroom,red_mushroom,cactus,vine,lily_pad,acacia_leaves,sunflower",
+      "discs\u003dmusic_disc_13,music_disc_cat,music_disc_blocks,music_disc_chirp,music_disc_far,music_disc_mall,music_disc_mellohi,music_disc_stal,music_disc_strad,music_disc_ward,music_disc_11,music_disc_wait",
+      "armor\u003dleather_helmet,leather_chestplate,leather_leggings,leather_boots,chainmail_helmet,chainmail_chestplate,chainmail_leggings,chainmail_boots,iron_helmet,iron_chestplate,iron_leggings,iron_boots,diamond_helmet,diamond_chestplate,diamond_leggings,diamond_boots,golden_helmet,golden_chestplate,golden_leggings,golden_boots",
+      "tools\u003diron_shovel,iron_pickaxe,iron_axe,diamond_shovel,diamond_pickaxe,diamond_axe,iron_hoe,iron_sword,diamond_sword,golden_sword",
+      "wood\u003doak_planks,spruce_planks,jungle_planks,dark_oak_planks,birch_planks,acacia_planks,acacia_log,birch_log,dark_oak_log,jungle_log,oak_log,spruce_log,stripped_acacia_log,stripped_birch_log,stripped_dark_oak_log,stripped_jungle_log,stripped_oak_log,stripped_spruce_log",
+      "woodjunk\u003dstick,oak_sign,torch,oak_fence",
+      "bonez\u003dbone,bone_meal",
+      "brewing\u003dgolden_carrot,ghast_tear,fermented_spider_eye,blaze_powder,magma_cream,glistering_melon_slice,blaze_rod,glowstone_dust,sugar,nether_wart",
+      "redstonestuff\u003ddispenser,note_block,sticky_piston,piston,redstone_torch,redstone_lamp,tripwire_hook,dropper,repeater,comparator,compass,clock",
+      "ironstuff\u003dflint_and_steel,shears,hopper,anvil,bucket,cauldron,iron_door,iron_trapdoor,powered_rail,rail,minecart,lava_bucket",
+      "containers\u003djukebox,ender_chest,enchanting_table,brewing_stand,furnace,crafting_table,chest,trapped_chest",
+      "nether\u003dnetherrack,soul_sand,glowstone,nether_bricks,nether_brick_fence,nether_brick_slab,nether_brick_stairs,nether_brick,obsidian",
+      "sglass\u003dglass,white_stained_glass,yellow_stained_glass,red_stained_glass,purple_stained_glass,pink_stained_glass,orange_stained_glass,magenta_stained_glass,lime_stained_glass,light_gray_stained_glass,light_blue_stained_glass,green_stained_glass,gray_stained_glass,cyan_stained_glass,brown_stained_glass,blue_stained_glass,black_stained_glass",
+      "clays\u003dclay,terracotta,black_terracotta,blue_terracotta,brown_terracotta,cyan_terracotta,gray_terracotta,green_terracotta,light_blue_terracotta,light_gray_terracotta,lime_terracotta,magenta_terracotta,orange_terracotta,pink_terracotta,purple_terracotta,red_terracotta,white_terracotta,yellow_terracotta,clay_ball,brick,bricks,brick_stairs,brick_slab",
+      "mobloot\u003dslime_ball,ender_pearl,ender_eye,feather,leather,gunpowder,ink_sac"
+    ]
+  },
+  "Hotkeys": {
+    "grab": {
+      "keys": "TAB"
+    },
+    "grabInv": {
+      "keys": "D"
+    },
+    "dumpInvAll": {
+      "keys": "S"
+    },
+    "dumpInvHot": {
+      "keys": "LEFT_CONTROL"
+    },
+    "dumpInvInv": {
+      "keys": "LEFT_SHIFT"
+    },
+    "moveStackToContAll": {
+      "keys": "A"
+    },
+    "moveStackToContHot": {
+      "keys": "LEFT_CONTROL"
+    },
+    "moveStackToContInv": {
+      "keys": "LEFT_SHIFT"
+    },
+    "openGuiSettings": {
+      "keys": "S,C"
+    }
+  }
+}

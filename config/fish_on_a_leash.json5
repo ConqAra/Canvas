@@ -1,0 +1,74 @@
+{
+	// Leash Axolotls
+	"leashAxolotls": true,
+	// Leash Bats
+	"leashBats": true,
+	// Leash Fish
+	"leashFish": true,
+	// Leash Squids
+	"leashSquids": true,
+	// Leash Turtles
+	"leashTurtles": true,
+	// Leash Villagers
+	"leashVillagers": false,
+	// Leash Wandering Traders
+	"leashTraders": true,
+	// Leash Cave Spiders
+	"leashCaveSpiders": true,
+	// Leash Endermen
+	"leashEndermen": true,
+	// Leash Goats
+	"leashGoats": true,
+	// Leash Pandas
+	"leashPandas": true,
+	// Leash Piglins
+	"leashPiglins": true,
+	// Leash Spiders
+	"leashSpiders": true,
+	// Leash Zombified Piglins
+	"leashZombifiedPiglins": true,
+	// Leash Blazes
+	"leashBlazes": true,
+	// Leash Creepers
+	"leashCreepers": true,
+	// Leash Drowned
+	"leashDrowned": true,
+	// Leash Elder Guardians
+	"leashElderGuardians": true,
+	// Leash Endermites
+	"leashEndermites": true,
+	// Leash Ghasts
+	"leashGhasts": true,
+	// Leash Guardians
+	"leashGuardians": true,
+	// Leash Husks
+	"leashHusks": true,
+	// Leash Illagers
+	"leashIllagers": false,
+	// Leash Magma Cubes
+	"leashMagmaCubes": true,
+	// Leash Phantoms
+	"leashPhantoms": true,
+	// Leash Ravagers
+	"leashRavagers": true,
+	// Leash Silverfish
+	"leashSilverfish": true,
+	// Leash Skeletons
+	"leashSkeletons": true,
+	// Leash Slimes
+	"leashSlimes": true,
+	// Leash Strays
+	"leashStrays": true,
+	// Leash Vexes
+	"leashVexes": true,
+	// Leash Witches
+	"leashWitches": false,
+	// Leash Wither Skeletons
+	"leashWitherSkeletons": true,
+	// Leash Zombies
+	"leashZombies": true,
+	// Leash Wither
+	"leashWither": true,
+	// Leash Giant
+	"leashGiant": true
+}

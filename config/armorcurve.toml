@@ -1,0 +1,4 @@
+armor = "damage*5/(5+armor)"
+armorToughness = "damage-(damage>40/(toughness+1))(damage-40/(toughness+1))/2"
+enchantments = "damage*10/(10+enchant)"
+degradation = "remaining/max"

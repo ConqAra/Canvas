@@ -1,0 +1,16 @@
+{
+	// The range from which creepers will spot you and start approaching you. Vanilla=16, default=32
+	"follow_range": 16,
+	// The maximum distance at which creepers breach. Best kept far below follow_range. Default=8
+	"explode_range": 0,
+	// Whether creepers should stalk you when they can get close enough
+	"stalking": true,
+	// Whether creepers should breach when they can't get close enough
+	"breaching": false,
+	// Whether creepers should have xray vision to start targeting a target
+	"xrayStartTargeting": false,
+	// Whether creepers should have xray vision to continue following a target (recommended to keep on true for breaching)
+	"xrayFollowTarget": false,
+	// Whether creepers should be blocked from exploding when within spawn protection on servers
+	"protectSpawn": false
+}

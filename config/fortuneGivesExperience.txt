@@ -1,0 +1,7 @@
+# Experience dropped when breaking ore blocks is multiplied by (1 + tool's fortune level * fortuneMultiplier)
+# Default value is 0.5, which gives 1.5x exp for fortune 1, 2.0x for fortune2, and 2.5x for fortune 3
+fortuneMultiplier = 0.5
+
+# Experience dropped when killing mobs is multiplied by (1 + weapon's looting level * lootingMultiplier)
+# Default value is 0.5, which gives 1.5x exp for looting 1, 2.0x for looting 2, and 2.5x for looting 3
+lootingMultiplier = 0.5

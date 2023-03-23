@@ -1,0 +1,60 @@
+{
+	// Configs related to the slime fork or the slime armor
+	bounce: {
+		// The maximum amount of uses for the slime fork.Set to 0 for infinite uses.
+		// default: 0
+		fork-max-damage: 0
+		// Sets the factor used when determining the velocity after the fork has been used
+		// default: 1.8
+		// 	Must be inclusively between 0.0 and 100.0
+		self-shoot-power: 1.7999999523162842
+		// Sets the factor determining the speed of shot entities
+		// default: 2.7
+		// 	Must be inclusively between 0.0 and 100.0
+		other-shoot-power: 2.700000047683716
+		// The percentage the velocity is additionally changed to when bouncing off the ground
+		// default: 1.0
+		// 	Must be inclusively between 0.0 and 1.0
+		velocity-dampener: 1
+		// The percentage the velocity is additionally changed to when bouncing of the ground while sneaking
+		// default: 0.5
+		// 	Must be inclusively between 0.0 and 1.0
+		sneak-velocity-dampener: 0.5
+		// Sets minimum velocity in y direction before stopping the player
+		// default: 0.7
+		// 	Must be greater or equal to 0.0
+		y-bounce-tolerance: 0.699999988079071
+		// Wearing slime armor implicitly works like the Thorns enchantment
+		// default: true
+		slime-armor-thorns: true
+	}
+	// Configs related to befriending slimes
+	pets: {
+		// Enable amassing slimes by feeding them honey.
+		// default: true
+		enable-honey-amassing: true
+		// Enable amassing slimes by feeding them rotten flesh.
+		// default: true
+		enable-rotten-flesh-amassing: true
+		// The maximum size of a pet slime that can be reached with the amassing mechanic.
+		// default: 5
+		// 	Must be greater or equal to 0
+		amass-size-limit: 5
+		// Enable breeding of pet slimes.
+		// Pet slimes will not normally breed but combine each other to a bigger pet slime,
+		// if they have the same size.
+		// default: true
+		enable-breeding: true
+		// The maximum size of a pet slime that can be reached through the breeding mechanic.
+		// default: 10
+		// 	Must be greater or equal to 0
+		breed-size-limit: 10
+		// Limits the maximum health of pet slimes.
+		// Since the maximum health is calculate as the square of the size,
+		// this could grow infinitely.
+		// Vanilla can only display 30 hearts of a pet so this should usually be limited to 60.
+		// default: 60
+		// 	Must be greater or equal to 1
+		max-health-limit: 60
+	}
+}

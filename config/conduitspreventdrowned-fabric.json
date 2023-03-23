@@ -1,0 +1,4 @@
+{
+	// The euclidian distance range around the drowned where a check for a player with the conduit effect is done. A value of 400 prevents the spawning of all drowned around.
+	"preventDrownedInRange": 400
+}

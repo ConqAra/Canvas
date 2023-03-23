@@ -1,0 +1,15 @@
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 1
+
+[villagerconverting]
+	# Simple toggle for the mod! When set to false, the 
+	# villagers will fall back to vanilla behavior/probability 
+	# for zombie-conversion.
+	modEnabled = true
+	# When set to true, only villagers that have a custom 
+	# name set (i.e. with a nametag) will be guaranteed to 
+	# convert! Non-named villagers will fall back to vanilla 
+	# behavior.
+	requireName = false
+

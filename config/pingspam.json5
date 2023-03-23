@@ -1,0 +1,8 @@
+{
+	// Send errors to players if a message contains invalid pings.
+	"sendPingErrors": true,
+	// Show amount of unread messages in actionbar.
+	"showUnreadMessagesInActionbar": true,
+	// Process pings from messages with nil UUIDs. Disabling this will disallow pings from command blocks and the server console, but will also disallow random unprivileged discord users from pinging @everyone with a discord link.
+	"processPingsFromUnknownPlayers": true
+}

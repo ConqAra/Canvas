@@ -1,0 +1,11 @@
+{
+  "phantomsAttackAnimals": true,
+  "phantomsAttackVillagers": true,
+  "phantomElytraPursueModifier": 8.0,
+  "phantomsStunPrey": false,
+  "ticksBetweenStunAttempts": 200,
+  "ticksStunDuration": 120,
+  "phantomsGrabPrey": true,
+  "doDaylightSpawns": true,
+  "phantom_attack_blacklist": []
+}

@@ -1,0 +1,12 @@
+{
+	// Whether villagers should use Numismatic currency for trading
+	"enableVillagerTrading": true,
+	// Whether taxes from Minecraft Comes Alive: Reborn should be delivered as Numismatic currency
+	"enableMcaCompatibility": true,
+	// Whether Numismatic currency should be injected into the loot tables of loot chests
+	"generateCurrencyInChests": true,
+	// Where the purse in your inventory should be placed on the X axis
+	"pursePositionX": 113,
+	// Where the purse in your inventory should be placed on the Y axis
+	"pursePositionY": 20
+}

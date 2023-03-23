@@ -1,0 +1,53 @@
+
+["Block Sounds"]
+	#Enables updated block sounds when set to true.
+	"Updated Block Sounds" = true
+	#Whether jukeboxes should play an inserting and ejecting sound when interacted with.
+	"Jukebox Interact Sounds" = true
+	#Whether flower pots should play a sound when a plant is inserted into them.
+	"Flower Pot Interact Sounds" = true
+	#Whether cakes should play a sound when eaten by the player.
+	"Cake Eating Sounds" = true
+
+["Item Sounds"]
+	#Whether ender pearls should play a sound when thrown.
+	"Ender Pearl Sounds" = true
+	#Whether spawns eggs should play a cracking sound when a mob is spawned using one.
+	"Spawn Egg Sounds" = true
+	#Whether leads should make a sound when attached to a mob.
+	"Lead Attaching Sounds" = true
+	#Whether boats should play a sound when placed.
+	"Boat Sounds" = true
+	#Whether minecarts should play a sound when placed.
+	"Minecart Sounds" = true
+
+["Tool and Weapon Sounds"]
+	#Whether a sound should play when a player punches with an empty hand.
+	"Empty Hand Swinging Sounds" = true
+	#Whether a sound should play when a player punches with a sword.
+	"Sword Swinging Sounds" = true
+	#Whether a sound should play when a player punches with an axe.
+	"Axe Swinging Sounds" = true
+	#Whether a sound should play when a player punches with a pickaxe.
+	"Pickaxe Swinging Sounds" = true
+	#Whether a sound should play when a player punches with a shovel.
+	"Shovel Swinging Sounds" = true
+	#Whether a sound should play when a player punches with a hoe.
+	"Hoe Swinging Sounds" = true
+	#Whether a sound should play when a player punches with a trident.
+	"Trident Swinging Sounds" = true
+	#Whether a sound should play when a player uses shears.
+	"Shear Swinging Sounds" = true
+	#Whether a sound should play when a player pulls back a bow.
+	"Bow Pullback Sounds" = true
+	#Whether a sound should play when a player pulls back a trident.
+	"Trident Pullback Sounds" = true
+	#Whether a sound should play when a player puts their shield up
+	"Shield Blocking Sounds" = true
+
+["Misc Sounds"]
+	#Whether Silverfish and Endermites should use their unused stepping sounds.
+	"Silverfish/Endermite Step Sounds" = true
+	#Whether a plopping sound should play when an item is dropped.
+	"Item Drop Sounds" = true
+

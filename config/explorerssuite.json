@@ -1,0 +1,9 @@
+{
+  "campfiresPlaceUnlit": false,
+  "campfiresHealPlayers": true,
+  "campfiresHealPassives": true,
+  "dropLadders": true,
+  "pigsDropTallow": true,
+  "dayColor": 16772778,
+  "nightColor": 13413119
+}

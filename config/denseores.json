@@ -1,0 +1,113 @@
+{
+  //Whether Dense Coal Ore is generated.
+  "canGenerateDenseCoal": true,
+  //Vein size of generated Dense Coal.
+  "coalVeinSize": 11,
+  //Min height of generated Dense Coal.
+  "coalMinHeight": 0,
+  //Max height of generated Dense Coal.
+  "coalMaxHeight": 192,
+  //Odds of generating more Dense Coal veins on each chunk.
+  "coalChunkOdds": 6,
+  //Whether Dense Copper Ore is generated.
+  "canGenerateDenseCopper": true,
+  //Vein size of generated Dense Copper.
+  "copperVeinSize": 6,
+  //Min height of generated Dense Copper.
+  "copperMinHeight": -16,
+  //Max height of generated Dense Copper.
+  "copperMaxHeight": 112,
+  //Odds of generating more Dense Copper veins on each chunk.
+  "copperChunkOdds": 11,
+  //Whether Dense Iron Ore (and its deepslate variant) is generated.
+  "canGenerateDenseIron": true,
+  //Vein size of generated Dense Iron (and its deepslate variant).
+  "ironVeinSize": 3,
+  //Min height of generated Dense Iron.
+  "ironMinHeight": -64,
+  //Max height of generated Dense Iron.
+  "ironMaxHeight": 72,
+  //Odds of generating more Dense Iron (and its deepslate variant) veins on each chunk.
+  "ironChunkOdds": 6,
+  //Whether Dense Gold Ore (and its deepslate variant) is generated.
+  "canGenerateDenseGold": true,
+  //Vein size of generated Dense Gold (and its deepslate variant).
+  "goldVeinSize": 6,
+  //Min height of generated Dense Gold.
+  "goldMinHeight": -64,
+  //Max height of generated Dense Gold.
+  "goldMaxHeight": 32,
+  //Odds of generating more Dense Gold (and its deepslate variant) veins on each chunk.
+  "goldChunkOdds": 3,
+  //Whether Dense Redstone Ore (and its deepslate variant) is generated.
+  "canGenerateDenseRedstone": true,
+  //Vein size of generated Dense Redstone (and its deepslate variant).
+  "redstoneVeinSize": 5,
+  //Min height of generated Dense Redstone.
+  "redstoneMinHeight": -64,
+  //Max height of generated Dense Redstone.
+  "redstoneMaxHeight": 32,
+  //Odds of generating more Dense Redstone (and its deepslate variant) veins on each chunk.
+  "redstoneChunkOdds": 3,
+  //Whether Dense Lapis Lazuli Ore (and its deepslate variant) is generated.
+  "canGenerateDenseLapis": true,
+  //Vein size of generated Dense Lapis Lazuli (and its deepslate variant).
+  "lapisVeinSize": 7,
+  //Min height of generated Dense Lapis Lazuli.
+  "lapisMinHeight": -32,
+  //Max height of generated Dense Lapis Lazuli.
+  "lapisMaxHeight": 32,
+  //Odds of generating more Dense Lapis Lazuli (and its deepslate variant) veins on each chunk.
+  "lapisChunkOdds": 5,
+  //Whether Dense Diamond Ore (and its deepslate variant) is generated.
+  "canGenerateDenseDiamond": true,
+  //Vein size of generated Dense Diamond (and its deepslate variant).
+  "diamondVeinSize": 3,
+  //Min height of generated Dense Diamond.
+  "diamondMinHeight": -80,
+  //Max height of generated Dense Diamond.
+  "diamondMaxHeight": 80,
+  //Odds of generating more Dense Diamond (and its deepslate variant) veins on each chunk.
+  "diamondChunkOdds": 5,
+  //Whether Dense Emerald Ore is generated.
+  "canGenerateDenseEmerald": true,
+  //Vein size of generated Dense Emerald.
+  "emeraldVeinSize": 2,
+  //Min height of generated Dense Emerald.
+  "emeraldMinHeight": -16,
+  //Max height of generated Dense Emerald.
+  "emeraldMaxHeight": 480,
+  //Odds of generating more Dense Emerald veins on each chunk.
+  "emeraldChunkOdds": 67,
+  //Common Max Height for all Deepslate ores. Min Height is always world's bottom.
+  "deepslateMaxHeight": 16,
+  //Whether Dense Deepslate Coal is generated.
+  //On vanilla worldgen, this will not happen, so it's disabled by default.
+  "canGenerateDenseDeepslateCoal": false,
+  //Whether Dense Deepslate Copper is generated.
+  //On vanilla worldgen, this will not happen, so it's disabled by default.
+  "canGenerateDenseDeepslateCopper": false,
+  //Whether Dense Deepslate Emerald is generated.
+  //On vanilla worldgen, this will not happen, so it's disabled by default.
+  "canGenerateDenseDeepslateEmerald": false,
+  //Whether Dense Nether Quartz is generated.
+  "canGenerateDenseNetherQuartz": true,
+  //Vein size of generated Dense Nether Quartz.
+  "netherQuartzVeinSize": 9,
+  //Odds of generating more Dense Nether Quartz veins on each chunk.
+  "netherQuartzChunkOdds": 11,
+  //Whether Dense Nether Gold is generated.
+  "canGenerateDenseNetherGold": true,
+  //Vein size of generated Dense Nether Gold.
+  "netherGoldVeinSize": 7,
+  //Odds of generating more Dense Nether Gold veins on each chunk.
+  "netherGoldChunkOdds": 7,
+  //Whether Dense Ancient Debris is generated.
+  "canGenerateDenseAncientDebris": true,
+  //Vein size of generated Dense Ancient Debris.
+  "ancientDebrisVeinSize": 1,
+  //Min height of generated Dense Ancient Debris.
+  "ancientDebrisMinHeight": 8,
+  //Max height of generated Dense Ancient Debris.
+  "ancientDebrisMaxHeight": 119
+}

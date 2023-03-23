@@ -1,0 +1,7 @@
+{
+  "disablingSound": true,
+  "blockedSound": true,
+  "showDelay": false,
+  "coolingDownMode": "NEVER",
+  "enemyRaisingDelay": "NEVER"
+}

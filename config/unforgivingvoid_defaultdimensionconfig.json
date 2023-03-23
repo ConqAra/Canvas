@@ -1,0 +1,10 @@
+{
+  "isEnabled": true,
+  "triggerDistance": 64,
+  "dropObsidian": false,
+  "fireResistanceSeconds": 0,
+  "slowFallingSeconds": 0,
+  "horizontalDistanceOffset": 128,
+  "targetDimension": "minecraft:overworld",
+  "transferPositionMode": "FALL_FROM_SKY"
+}

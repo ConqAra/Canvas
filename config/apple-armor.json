@@ -1,0 +1,16 @@
+{
+  "hungerPerArmorPiece": 0.6,
+  "hungerIncreasedByProtection": 0.1,
+  "hungerIncreasedByProtectionEnchantmentLevel": 0.15,
+  "hungerFullSetBonus": 2.0,
+  "hungerDiminishedByArmorPieceCount": 0.1,
+  "hungerSaturationModifier": 0.3,
+  "goldenHungerSaturationModifier": 0.6,
+  "goldenArmorRegenerationDuration": 2,
+  "goldenArmorAbsorptionDuration": 24,
+  "enchantedGoldenArmorRegenerationDuration": 4,
+  "enchantedGoldenArmorAbsorptionDuration": 48,
+  "enchantedGoldenArmorResistanceDuration": 60,
+  "enchantedGoldenArmorFireResistanceDuration": 60,
+  "applesDroppedOnArmorPieceBreak": 1
+}

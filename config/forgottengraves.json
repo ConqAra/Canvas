@@ -1,0 +1,19 @@
+{
+  "main": {
+    "enableGraves": true,
+    "sendGraveCoordinates": true,
+    "retrievalType": "ON_BOTH",
+    "dropType": "PUT_IN_INVENTORY",
+    "expStorageType": "STORE_DEFAULT_XP",
+    "maxCustomXPLevel": 30
+  },
+  "itemDecay": {
+    "maxDecayPercent": 0,
+    "itemDecayBreaksItems": false
+  },
+  "server": {
+    "enableGraveRobbing": false,
+    "minOperatorOverrideLevel": 4,
+    "clientsideOptions": []
+  }
+}

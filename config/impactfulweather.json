@@ -1,0 +1,53 @@
+{
+  "toggles": {
+    "weepingrain": true,
+    "sporestorm": true,
+    "updrafts": true,
+    "soulstorms": true,
+    "endlessnweather": false,
+    "dodenserain": true,
+    "sandstorms": true,
+    "redsandstorms": true,
+    "blizzards": true,
+    "heavyrain": true,
+    "wind": true
+  },
+  "particleamountconfig": {
+    "particleamount": 32.0,
+    "particleDensity": 1.0,
+    "sandmotemodifier": 1.0,
+    "snowmodifier": 1.0,
+    "blizzardsnowmodifier": 1.0,
+    "blizzardwindmodifier": 1.0,
+    "updraftmodifier": 1.0,
+    "windmodifier": 1.0,
+    "sporemodifier": 1.0,
+    "soulmodifier": 1.0,
+    "tearmodifier": 1.0,
+    "rainmodifier": 1.0,
+    "heavyrainmodifier": 1.0,
+    "tumblebushmodifier": 1.0
+  },
+  "misc": {
+    "nweatherbasedelay": 120,
+    "nweatherrandomdelay": 240,
+    "renderedweather": false,
+    "snowspeedmodifier": 1.0,
+    "searchDist": {
+      "x": 32,
+      "y": 32,
+      "z": 32
+    }
+  },
+  "particletoggles": {
+    "sandmote": true,
+    "redsandmote": true,
+    "tumblebush": true,
+    "snow": true,
+    "blizzardwind": true,
+    "blizzardsnow": true,
+    "rain": true,
+    "heavyrain": true,
+    "rainsplash": true
+  }
+}

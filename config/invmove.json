@@ -1,0 +1,17 @@
+{
+  "general": {
+    "enable": false,
+    "debugDisplay": false
+  },
+  "movement": {
+    "enable": true,
+    "jump": true,
+    "sneak": "Maintain",
+    "dismount": false,
+    "textFieldDisables": true
+  },
+  "background": {
+    "enable": true,
+    "hideOnPause": "Show"
+  }
+}

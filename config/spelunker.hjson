@@ -1,0 +1,139 @@
+{
+	// Checks serverside for blocks to be highlighted and sends them to the client
+	// recommended if the server has an anti-xray mod
+	// default: true
+	server-validating: true
+	// default: true
+	block-transitions: true
+	// Sets whether or not players can brew the potion
+	// If this is disabled amethyst dust will also be unobtainable in survival
+	// default: true
+	allow-potion-brewing: true
+	// Specifies the chance how often an amethyst dust should drop when mining an amethyst cluster
+	// default: 10
+	amethyst-dust-chance: 10
+	// The duration of the short spelunker potion in seconds
+	// default: 45
+	short-potion-duration: 45
+	// The duration of the long spelunker potion in seconds
+	// default: 90
+	long-potion-duration: 90
+	loot-tables: [
+		{
+			// The loot table where the potion should be able to generate in
+			// default: chests/abandoned_mineshaft
+			targetId: chests/abandoned_mineshaft
+			// Minimum rolls
+			// default: 1
+			min: 1
+			// Maximum rolls
+			// default: 1
+			max: 1
+			// Modifies how likely it is that a short-potion generates in this loot table
+			// default: 10
+			short-potion-chance: 10
+			// Modifies how likely it is that a long-potion generates in this loot table
+			// default: 25
+			long-potion-chance: 25
+		}
+	]
+	// Determines whether an ease-out animation should be played when approaching a block
+	// If this option is false it will overwrite all block-specific transitions
+	// default: true
+	block-transition: true
+	// The configuration for the given blocks
+	// 
+	// highlightColor:
+	//     Specifies the color with which the block will be outlined
+	//     You can also use values like "red, dark_red, blue, aqua"
+	// 
+	// transition:
+	//     Determines whether an ease-out animation should be played when approaching a block
+	// 
+	// effectRadius:
+	//     How many blocks the effect should range, a higher value than 32 is not recommended
+	//     Must be greater or equal to 1
+	block-configs: [
+		{
+			highlightColor: "#ffd1bd"
+			blockIds: [
+				minecraft:iron_ore
+				minecraft:deepslate_iron_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#eb5e34"
+			blockIds: [
+				minecraft:copper_ore
+				minecraft:deepslate_copper_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#505050"
+			blockIds: [
+				minecraft:coal_ore
+				minecraft:deepslate_coal_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#fff52e"
+			blockIds: [
+				minecraft:gold_ore
+				minecraft:deepslate_gold_ore
+				minecraft:nether_gold_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#2ee0ff"
+			blockIds: [
+				minecraft:diamond_ore
+				minecraft:deepslate_diamond_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#2eff35"
+			blockIds: [
+				minecraft:emerald_ore
+				minecraft:deepslate_emerald_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#312eff"
+			blockIds: [
+				minecraft:lapis_ore
+				minecraft:deepslate_lapis_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#ff2e2e"
+			blockIds: [
+				minecraft:redstone_ore
+				minecraft:deepslate_redstone_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+		{
+			highlightColor: "#ffffff"
+			blockIds: [
+				minecraft:nether_quartz_ore
+			]
+			transition: true
+			effectRadius: 16
+		}
+	]
+}

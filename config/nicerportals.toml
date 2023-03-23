@@ -1,0 +1,36 @@
+# Config version is auto-generated
+# DO NOT CHANGE
+configVersion = 1
+
+[nicerportals]
+	# Simple toggle for the mod! Set to false to disable everything.
+	modEnabled = true
+	# Whether to makes portals emit only one sound when they 
+	#break.
+	#Client-side only.
+	dedupeBreakSound = true
+
+	[nicerportals.single]
+		# Whether to prevent portals from spawning Zombified
+		#Piglins in the overworld.
+		#Server-side & single player only.
+		preventPortalSpawns = true
+		# Whether to allow using crying obsidian for portals.
+		#Server-side & single player only.
+		cryingObsidian = true
+		# Whether to allow portals in any shape and size.
+		#Server-side & single player only.
+		anyShape = true
+		# The maximum allowed portal size to allow. Be warned
+		#that setting values that are too large here could lag
+		#or even crash the game. 2304 is the default and seems to
+		#cause only a small hiccup in come cases.
+		#Note this value only has any effect if anyShape is true.
+		#Server-side & single player only.
+		maxSize = 2304
+		# Require that portals are at least a 1x2 shape (can
+		#walk through them). Set to false to allow 1x1 portals.
+		#Note this value only has any effect if anyShape is true.
+		#Server-side & single player only.
+		enforceMinimum = true
+
