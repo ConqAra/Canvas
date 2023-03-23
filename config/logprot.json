@@ -5,7 +5,7 @@
   },
   "maxDist": {
     "desc:": "Max distance in blocks(2d) the invulnerability lasts, default: 4",
-    "maxDist": 4
+    "maxDist": 1
   },
   "debugOutput": {
     "desc:": "Whether to enable debug log outputs, default: false",
