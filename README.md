@@ -6,5 +6,7 @@ has a lot of love and effort put into it, worked on this for over a year and am 
 disclaimer: none of these mods were made by me.
 
 minecraft version: 1.18.2
+
 java version: 18
+
 fabric loader: 0.14.18
