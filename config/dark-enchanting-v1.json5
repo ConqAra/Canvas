@@ -218,12 +218,6 @@
       "activated": true,
       "personalFactor": 3.0,
       "personalReceiveFactor": 1.0
-    },
-    {
-      "enchantmentId": "musuen:everlasting",
-      "activated": true,
-      "personalFactor": 3.0,
-      "personalReceiveFactor": 1.0
     }
   ]
 }
