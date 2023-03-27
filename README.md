@@ -4,3 +4,9 @@ has a bunch of tweaks, rpg and tech aspects, overhauls, and all-around quality o
 has a lot of love and effort put into it, worked on this for over a year and am happy with the results. enjoy!
 
 disclaimer: none of these mods were made by me.
+
+minecraft version: 1.18.2
+
+java version: 18
+
+fabric loader: 0.14.18
