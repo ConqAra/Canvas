@@ -357,6 +357,8 @@ mode = "fancy"
 
 			[light_sources.settings.entities.varietyaquatic]
 				shark = true
+				hermitcrab = true
+				jellyfish = true
 
 			[light_sources.settings.entities.automobility]
 				automobile = true

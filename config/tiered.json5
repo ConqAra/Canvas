@@ -1,4 +1,6 @@
 {
+	// Crafted items get modifiers
+	"craftingModifier": false,
 	// Items in for example mineshaft chests get modifiers
 	"lootContainerModifier": false,
 	// Decreases the biggest weights
