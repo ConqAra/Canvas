@@ -4,7 +4,13 @@
   "excludeTab": [
     "tiered:reforging_station",
     "#techreborn:block_entities_without_inventories",
-    "#inventorytabs:mod_compat_blacklist"
+    "#inventorytabs:mod_compat_blacklist",
+    "slotlink:master",
+    "slotlink:cable",
+    "slotlink:link_cable",
+    "slotlink:import_cable",
+    "slotlink:export_cable",
+    "slotlink:interface"
   ],
   "includeTab": [],
   "debugEnabled": false
