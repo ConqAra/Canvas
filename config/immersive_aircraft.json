@@ -10,5 +10,11 @@
   "windThunderWeather": 3.0,
   "collisionDamage": true,
   "onlyPlayerCanDestroyAircraft": true,
+  "burnFuelInCreative": false,
+  "acceptVanillaFuel": true,
+  "useCustomKeybindSystem": true,
+  "fuelList": {
+    "minecraft:blaze_powder": 1200
+  },
   "version": 1
 }
