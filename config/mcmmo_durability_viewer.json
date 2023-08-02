@@ -1,0 +1,12 @@
+{
+  "durabilityBar": {
+    "MAX_DURABILITY_TAG": "MMOITEMS_MAX_DURABILITY",
+    "DURABILITY_TAG": "MMOITEMS_DURABILITY"
+  },
+  "consumeValue": {
+    "MAX_CONSUME_TAG": "MMOITEMS_MAX_CONSUME",
+    "FULL_CONSUME_VALUE": 5,
+    "SINGLE_COLOR": false,
+    "CONSUME_COLOR": 2149464
+  }
+}

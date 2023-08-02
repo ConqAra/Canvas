@@ -1,0 +1,14 @@
+{
+  "tooltip": true,
+  "toggle_hand": [
+    "silk_touch;#00AA00",
+    "fire_aspect;#FFAA00",
+    "flame;#FFAA00"
+  ],
+  "toggle_helmet": [],
+  "toggle_chestplate": [],
+  "toggle_leggings": [],
+  "toggle_boots": [
+    "frost_walker;#A5F2F3"
+  ]
+}
