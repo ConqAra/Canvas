@@ -2,7 +2,6 @@
   "doSightChecksFlag": true,
   "rotatePlayer": false,
   "excludeTab": [
-    "tiered:reforging_station",
     "#techreborn:block_entities_without_inventories",
     "#inventorytabs:mod_compat_blacklist",
     "slotlink:master",
@@ -10,7 +9,8 @@
     "slotlink:link_cable",
     "slotlink:import_cable",
     "slotlink:export_cable",
-    "slotlink:interface"
+    "slotlink:interface",
+    "tiered:reforging_station"
   ],
   "includeTab": [],
   "debugEnabled": false

@@ -2,13 +2,18 @@
   "tooltip": true,
   "toggle_hand": [
     "silk_touch;#00AA00",
+    "flash_forge;#00AA00",
     "fire_aspect;#FFAA00",
-    "flame;#FFAA00"
+    "explosive;#FFAA00",
+    "homing;#FFAA00",
+    "flame;#FFAA00",
+    "soul_flame;#FFAA00"
   ],
   "toggle_helmet": [],
   "toggle_chestplate": [],
   "toggle_leggings": [],
   "toggle_boots": [
-    "frost_walker;#A5F2F3"
+    "frost_walker;#A5F2F3",
+    "blazewalker;#A5F2F3"
   ]
 }
