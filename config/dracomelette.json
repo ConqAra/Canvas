@@ -1,5 +1,5 @@
 {
-  "breakChance": 0.20,
-  "teleportChance": 0.40,
+  "breakChance": 0.2,
+  "teleportChance": 0.4,
   "spawnMultipleEggs": true
 }
