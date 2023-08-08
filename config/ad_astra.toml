@@ -16,8 +16,8 @@ orbitGravity = 3.26
 giveAstroduxAtSpawn = false
 oxygenBarXOffset = 0
 oxygenBarYOffset = 0
-energyBarXOffset = 0
-energyBarYOffset = 0
+energyBarXOffset = 563
+energyBarYOffset = 65
 allowFlagImages = true
 [spaceSuit]
 spaceSuitTankSize = 81000

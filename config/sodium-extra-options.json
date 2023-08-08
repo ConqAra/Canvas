@@ -45,7 +45,7 @@
     "overlay_corner": "TOP_LEFT",
     "text_contrast": "NONE",
     "show_fps": true,
-    "show_f_p_s_extended": true,
+    "show_f_p_s_extended": false,
     "show_coords": false,
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": false,
