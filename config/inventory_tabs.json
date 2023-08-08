@@ -10,7 +10,11 @@
     "slotlink:import_cable",
     "slotlink:export_cable",
     "slotlink:interface",
-    "tiered:reforging_station"
+    "tiered:reforging_station",
+    "minecraft:barrel",
+    "lootr:lootr_barrel",
+    "minecraft:dispenser",
+    "create:blaze_burner"
   ],
   "includeTab": [],
   "debugEnabled": false

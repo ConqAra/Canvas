@@ -18,9 +18,12 @@ import crafttweaker.api.entity.attribute.AttributeOperation;
 
 <item:minecraft:leather_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "leather speed chest", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
 <item:ohmygoat:horned_leather_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "leather speed head horn", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
+<item:ohmygoat:horned_leather_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_speed>, "leather attack head horn", 0.1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
 <item:minecraft:leather_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "leather speed head", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
 <item:minecraft:leather_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "leather speed legs", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
 <item:minecraft:leather_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "leather speed feet", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
+<item:minecraft:leather_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_speed>, "leather attack chest", 0.1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
+<item:minecraft:leather_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_speed>, "leather attack head", 0.1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
 
 <item:minecraft:chainmail_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_damage>, "chainmail damage chest", 0.75, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
 <item:ohmygoat:horned_chainmail_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_damage>, "chainmail damage head horn", 0.75, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);

@@ -1,0 +1,18 @@
+everything that isn't in a folder that's with this .txt works and can be used whenever. its all preference.
+
+wildfire is for having boobs... yeah...
+
+betterpingdisplay makes it so when you check your and other's ping it actually displays numbers.
+
+gmod title screen just changes the title screen and makes it a bit fancier.
+
+hudtweaks allows you to change the positions of your hud.
+
+inventoryhud changes and adds more hud features, such as showing your inventory without having to press e.
+
+resourcify is pretty neat, it allows you to download any resource, data, and shader packs from modrinth within your client!
+
+tps-hud shows the tps of the server. if you're curious how the server is doing or you're admin playing on it, i recommend using this. you can change the position as well.
+
+vivecraft is for vr. has been tested with this modpack. works for the most part, although it puts a lot of stress on your computer. you'll get 60-100 fps at most probably unless you do some chunkmanaging.
+

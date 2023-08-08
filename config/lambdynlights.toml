@@ -29,6 +29,9 @@ mode = "fancy"
 			[light_sources.settings.entities.biomemakeover]
 				owl = true
 
+			[light_sources.settings.entities.myloot]
+				loot_chest_minecart = true
+
 			[light_sources.settings.entities.galosphere]
 				sparkle = true
 				spectre = true
@@ -362,6 +365,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.automobility]
 				automobile = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
 
 			[light_sources.settings.entities.byg]
 				boat = true
