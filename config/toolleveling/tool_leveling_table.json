@@ -67,7 +67,13 @@
       "musuen:vein_miner",
       "musuen:wingspan",
       "musuen:berserker",
-      "musuen:everlasting"
+      "musuen:everlasting",
+      "musuen:gluttony",
+      "musuen:guillotining",
+      "musuen:dreamlike",
+      "musuen:multi_arrow",
+      "musuen:zero_gravity",
+      "musuen:scything"
     ],
     "global_enchantment_cap": 6,
     "enchantment_caps": {

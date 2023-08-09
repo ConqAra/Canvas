@@ -36,35 +36,3 @@ import crafttweaker.api.entity.attribute.AttributeOperation;
 <item:minecraft:golden_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "gold health head", 1.5, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
 <item:minecraft:golden_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "gold health legs", 1.5, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
 <item:minecraft:golden_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "gold health feet", 1.5, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
-
-<item:the_aether:phoenix_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "phoenix health chest", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:the_aether:phoenix_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "phoenix health head", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:the_aether:phoenix_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "phoenix health legs", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:the_aether:phoenix_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "phoenix health feet", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
-<item:the_aether:phoenix_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "phoenix speed chest", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:the_aether:phoenix_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "phoenix speed head", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:the_aether:phoenix_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "phoenix speed legs", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:the_aether:phoenix_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.movement_speed>, "phoenix speed feet", 0.005, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
-
-<item:the_aether:zanite_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "zanite health chest", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:the_aether:zanite_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "zanite health head", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:the_aether:zanite_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "zanite health legs", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:the_aether:zanite_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "zanite health feet", 1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
-<item:the_aether:zanite_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_speed>, "zanite speed chest", 0.1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:the_aether:zanite_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_speed>, "zanite speed head", 0.1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:the_aether:zanite_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_speed>, "zanite speed legs", 0.1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:the_aether:zanite_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.attack_speed>, "zanite speed feet", 0.1, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
-
-<item:the_aether:gravitite_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "gravitite health chest", 1.5, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:the_aether:gravitite_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "gravitite health head", 1.5, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:the_aether:gravitite_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "gravitite health legs", 1.5, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:the_aether:gravitite_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "gravitite health feet", 1.5, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
-<item:the_aether:gravitite_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "gravitite knockback chest", 0.05, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:the_aether:gravitite_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "gravitite knockback head", 0.05, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:the_aether:gravitite_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "gravitite knockback legs", 0.05, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:the_aether:gravitite_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.knockback_resistance>, "gravitite knockback feet", 0.05, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);
-
-<item:the_aether:neptune_chestplate>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "neptune health chest", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:chest>]);
-<item:the_aether:neptune_helmet>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "neptune health head", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:head>]);
-<item:the_aether:neptune_leggings>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "neptune health legs", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:legs>]);
-<item:the_aether:neptune_boots>.anyDamage().addGlobalAttributeModifier(<attribute:minecraft:generic.max_health>, "neptune health feet", 2, AttributeOperation.ADDITION, [<constant:minecraft:equipmentslot:feet>]);

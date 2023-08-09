@@ -13,7 +13,7 @@
   "witherSkeleton": {
     "baby": false,
     "fireResistant": true,
-    "bow": true,
+    "bow": false,
     "netheriteSword": false
   }
 }
