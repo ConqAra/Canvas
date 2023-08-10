@@ -1,0 +1,8 @@
+{
+  "enableDispenserBehavior": true,
+  "damageAnimals": true,
+  "dropXp": true,
+  "reapBabies": true,
+  "reapPlayers": false,
+  "deathChance": 10
+}
