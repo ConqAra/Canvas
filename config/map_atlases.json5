@@ -18,9 +18,9 @@
 	// Enter an integer which will offset the mini-map vertically
 	"miniMapVerticalOffset": 0,
 	// Controls how many usable Maps are added when you add a single Map to the Atlas
-	"mapEntryValueMultiplier": 1,
+	"mapEntryValueMultiplier": 8,
 	// Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
-	"pityActivationMapCount": 9,
+	"pityActivationMapCount": 32,
 	// The number of pixels to shift vertically when there's an active effect
 	"activePotionVerticalOffset": 26,
 	// When enabled, the player's current Coords will be displayed
