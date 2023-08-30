@@ -1,0 +1,13 @@
+{
+  "maxStacker": 64,
+  "fontOverride": true,
+  "itemCountScaleInt": 25,
+  "itemOverride": [
+    "#stacker:not_stackable:1",
+    "minecraft:totem_of_undying:16",
+    "#c:potions:16",
+    "numismatic-overhaul:gold_coin:99",
+    "numismatic-overhaul:silver_coin:99",
+    "numismatic-overhaul:bronze_coin:99"
+  ]
+}

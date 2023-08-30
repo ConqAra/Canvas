@@ -11,5 +11,6 @@
   "mobDropIsPotionChance": 30,
   "mobDropIsLesserOrbChance": 5,
   "mobDropIsGreaterOrbChance": 1,
-  "mobDropIsTomeChance": 10
+  "mobDropIsTomeChance": 10,
+  "mobDropBlacklist": []
 }

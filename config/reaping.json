@@ -3,6 +3,6 @@
   "damageAnimals": true,
   "dropXp": true,
   "reapBabies": true,
-  "reapPlayers": false,
+  "reapPlayers": true,
   "deathChance": 10
 }

@@ -1,4 +1,4 @@
 - remove health levels for balance
 - remove fortune gives experience mod, incompatible with rpgdifficulty mod
-- set airleon config to "doCameraRoll": false
 - remove inventorio, incompatible with bettercombat.
+- remove inventory tabs, gui is incompatible with various mods here.

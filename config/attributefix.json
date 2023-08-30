@@ -176,11 +176,33 @@
         "value": 10000000
       }
     },
+    "tiered:generic.size": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
     "additionalentityattributes:critical_bonus_damage": {
       "enabled": false,
       "min": {
         "default": -1,
         "value": -1
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
+    "porting_lib:swim_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 1024,
@@ -195,17 +217,6 @@
       },
       "max": {
         "default": 2048,
-        "value": 10000000
-      }
-    },
-    "porting_lib:swim_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
         "value": 10000000
       }
     },
@@ -330,7 +341,29 @@
         "value": 10000000
       }
     },
+    "tiered:generic.tooltip_border_level": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 15,
+        "value": 10000000
+      }
+    },
     "arcanus:mana_lock": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 10000000
+      }
+    },
+    "combatroll:count": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -349,17 +382,6 @@
       },
       "max": {
         "default": 1,
-        "value": 10000000
-      }
-    },
-    "combatroll:count": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 20,
         "value": 10000000
       }
     },

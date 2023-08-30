@@ -55,7 +55,9 @@
     "graveyard:small_red_urn",
     "graveyard:small_orange_urn",
     "graveyard:small_brown_urn",
-    "graveyard:small_yellow_urn"
+    "graveyard:small_yellow_urn",
+    "fwaystones:waystone",
+    "chiselsandbits:block_bit"
   ],
   "includeTab": [],
   "debugEnabled": false

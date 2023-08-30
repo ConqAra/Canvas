@@ -97,10 +97,46 @@ mode = "fancy"
 				quadrocopter = true
 				biplane = true
 
+			[light_sources.settings.entities.adventurez]
+				skeleton_vanguard = true
+				deer = true
+				thrown_rock = true
+				desert_rhino = true
+				small_stone_golem = true
+				piglin_beast = true
+				blaze_guardian = true
+				ender_whale = true
+				shaman = true
+				dragon = true
+				stone_golem = true
+				iguana = true
+				soul_reaper = true
+				amethyst_golem = true
+				red_fungus = true
+				void_bullet = true
+				summoner = true
+				orc = true
+				the_eye = true
+				necromancer = true
+				void_fragment = true
+				brown_fungus = true
+				blaze_guardian_shield = true
+				nightmare = true
+				mammoth = true
+				void_shade = true
+				enderwarthog = true
+				void_shadow = true
+
 			[light_sources.settings.entities.create]
+				stationary_contraption = true
 				contraption = true
 				super_glue = true
 				potato_projectile = true
+
+			[light_sources.settings.entities.medievalweapons]
+				netherite_javelin = true
+				netherite_francisca = true
+				pendorite_francisca = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -213,6 +249,7 @@ mode = "fancy"
 				rabbit = true
 				firework_rocket = true
 				silverfish = true
+				giant = true
 				drowned = true
 				item = true
 				goat = true
@@ -237,6 +274,7 @@ mode = "fancy"
 				piglin = true
 				blaze = true
 				endermite = true
+				end_crystal = true
 				zombie = true
 				ender_pearl = true
 				guardian = true
@@ -305,6 +343,7 @@ mode = "fancy"
 				fishing_bobber = true
 				polar_bear = true
 				hopper_minecart = true
+				falling_block = true
 				painting = true
 				wither = true
 
@@ -341,6 +380,11 @@ mode = "fancy"
 
 			[light_sources.settings.entities.simplehats]
 				hatdisplay = true
+
+			[light_sources.settings.entities.gateofbabylon]
+				spear = true
+				yoyo = true
+				boomerang = true
 
 			[light_sources.settings.entities.crittersandcompanions]
 				dragonfly = true
@@ -388,6 +432,9 @@ mode = "fancy"
 				cog = true
 				cannon_ball = true
 
+			[light_sources.settings.entities.musketmodrevamped]
+				bomb = true
+
 			[light_sources.settings.entities.the_aether]
 				aerbunny = true
 				poison_needle = true
@@ -405,8 +452,14 @@ mode = "fancy"
 				entity_sit = true
 
 			[light_sources.settings.entities.ad_astra]
+				ice_spit_entity = true
 				tier_2_rocket = true
 				martian_raptor = true
+				corrupted_lunarian = true
+				lunarian = true
 				tier_4_rocket = true
+				tier_1_rover = true
+				star_crawler = true
 				lander = true
+				glacian_ram = true
 

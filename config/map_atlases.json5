@@ -20,7 +20,7 @@
 	// Controls how many usable Maps are added when you add a single Map to the Atlas
 	"mapEntryValueMultiplier": 8,
 	// Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
-	"pityActivationMapCount": 32,
+	"pityActivationMapCount": 24,
 	// The number of pixels to shift vertically when there's an active effect
 	"activePotionVerticalOffset": 26,
 	// When enabled, the player's current Coords will be displayed
