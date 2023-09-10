@@ -15,6 +15,6 @@
   "ravagerInPatrols": false,
   "witch": {
     "fleeGoal": false,
-    "moreSpawn": true
+    "moreSpawn": false
   }
 }

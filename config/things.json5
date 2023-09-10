@@ -13,6 +13,8 @@
 	"renderTrinkets": false,
 	// Only disables trinket rendering for apples
 	"renderAppleTrinket": false,
+	// Only disables trinket rendering for agglomerations
+	"renderAgglomerationTrinket": true,
 	// Whether container blocks locked by a Container Key should be unbreakable
 	"makeLockedContainersUnbreakable": false,
 	// How many ender pearls the displacement tome uses per teleport

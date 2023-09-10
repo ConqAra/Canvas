@@ -4,7 +4,7 @@
   "dropObsidian": false,
   "fireResistanceSeconds": 0,
   "slowFallingSeconds": 0,
-  "horizontalDistanceOffset": 128,
+  "horizontalDistanceOffset": 3000,
   "targetDimension": "minecraft:overworld",
   "transferPositionMode": "FALL_FROM_SKY"
 }

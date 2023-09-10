@@ -1,1 +1,2 @@
-- adjust gilded netherite mod recipe with adventure z's!!!
+- eating animations for adventurez
+- tinker smithing for medievalweapons (kill me)

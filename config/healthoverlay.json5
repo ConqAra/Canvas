@@ -77,7 +77,7 @@
 		/* Display absorption in the same row as health
 		   Absorption hearts start directly after the last health heart.
 		*/
-		"absorption_over_health": false,
+		"absorption_over_health": true,
 		"counter": {
 			/* Visualizes health/absorption to left of the hearts.
 			   Allowed Values: OFF, ALWAYS, ON_CHANGE

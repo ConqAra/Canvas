@@ -11,7 +11,7 @@
         "value": 10000000
       }
     },
-    "additionalentityattributes:water_visibility": {
+    "arcanus:mana_regen": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -22,7 +22,7 @@
         "value": 10000000
       }
     },
-    "arcanus:mana_regen": {
+    "additionalentityattributes:water_visibility": {
       "enabled": false,
       "min": {
         "default": 0,

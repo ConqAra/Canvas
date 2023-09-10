@@ -1,5 +1,9 @@
 {
   "servers": {
+    "192.168.1.213": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
     "96.253.64.89": {
       "distance": 16,
       "priorityDistance": 48

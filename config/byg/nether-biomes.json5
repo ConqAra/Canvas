@@ -123,6 +123,14 @@ If your settings in this file seem to have to no effect on the generation of the
 			{
 				"data": "incendium:quartz_flats",
 				"weight": 2
+			},
+			{
+				"data": "yttr:scorched_summit",
+				"weight": 2
+			},
+			{
+				"data": "yttr:scorched_terminus",
+				"weight": 2
 			}
 		]
 	},
@@ -243,6 +251,14 @@ If your settings in this file seem to have to no effect on the generation of the
 			{
 				"data": "incendium:quartz_flats",
 				"weight": 2
+			},
+			{
+				"data": "yttr:scorched_summit",
+				"weight": 2
+			},
+			{
+				"data": "yttr:scorched_terminus",
+				"weight": 2
 			}
 		]
 	},
@@ -347,6 +363,14 @@ If your settings in this file seem to have to no effect on the generation of the
 			},
 			{
 				"data": "incendium:quartz_flats",
+				"weight": 2
+			},
+			{
+				"data": "yttr:scorched_summit",
+				"weight": 2
+			},
+			{
+				"data": "yttr:scorched_terminus",
 				"weight": 2
 			}
 		]

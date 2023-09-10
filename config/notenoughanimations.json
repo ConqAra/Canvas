@@ -31,7 +31,8 @@
     "minecraft:wooden_sword",
     "minecraft:stone_sword",
     "minecraft:diamond_sword",
-    "minecraft:netherite_sword"
+    "minecraft:netherite_sword",
+    "byg:pendorite_sword"
   ],
   "enableCrawlingAnimation": true,
   "holdUpAllItems": false,

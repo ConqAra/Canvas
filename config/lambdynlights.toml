@@ -32,10 +32,37 @@ mode = "fancy"
 			[light_sources.settings.entities.myloot]
 				loot_chest_minecart = true
 
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_enderman = true
+				spider_pig = true
+				mutant_creeper = true
+				mutant_snow_golem = true
+				creeper_minion = true
+				mutant_skeleton = true
+				mutant_zombie = true
+				throwable_block = true
+				mutant_arrow = true
+
 			[light_sources.settings.entities.galosphere]
 				sparkle = true
 				spectre = true
 				silver_bomb = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				sorcerer = true
+				surrendered = true
+				alchemist = true
+				basher = true
+				necromancer = true
+				firecaller = true
+				invoker = true
+				marauder = true
+				invoker_fangs = true
+				flying_magma = true
+				hatchet = true
+				provoker = true
+				archivist = true
+				inquisitor = true
 
 			[light_sources.settings.entities.impaled]
 				elder_trident = true
@@ -457,6 +484,7 @@ mode = "fancy"
 				martian_raptor = true
 				corrupted_lunarian = true
 				lunarian = true
+				pygro = true
 				tier_4_rocket = true
 				tier_1_rover = true
 				star_crawler = true

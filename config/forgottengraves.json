@@ -1,19 +1,34 @@
 {
   "main": {
-    "enableGraves": true,
-    "sendGraveCoordinates": true,
-    "retrievalType": "ON_BOTH",
-    "dropType": "PUT_IN_INVENTORY",
-    "expStorageType": "STORE_DEFAULT_XP",
-    "maxCustomXPLevel": 30
+    "graves": true,
+    "graveCoordinates": true,
+    "retrievalType": "BOTH",
+    "dropType": "EQUIP",
+    "sneakSwapsDropType": true
   },
-  "itemDecay": {
-    "maxDecayPercent": 0,
-    "itemDecayBreaksItems": false
+  "experience": {
+    "expStorageType": "ALL",
+    "percentage": 20,
+    "percentageType": "POINTS",
+    "cap": -1,
+    "capType": "LEVELS"
+  },
+  "sink": {
+    "sinkInAir": true,
+    "sinkInWater": true,
+    "sinkInLava": false
+  },
+  "decay": {
+    "decayEnabled": true,
+    "decayModifier": 60,
+    "decayBreaksItems": false,
+    "decayRobbing": "FRESH"
   },
   "server": {
-    "enableGraveRobbing": false,
-    "minOperatorOverrideLevel": 4,
-    "clientsideOptions": []
+    "graveRobbing": false,
+    "storedGravesAmount": 20,
+    "destructiveDeleteCommand": false,
+    "OPOverrideLevel": 4,
+    "clientOptions": []
   }
 }

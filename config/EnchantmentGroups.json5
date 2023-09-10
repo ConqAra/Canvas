@@ -8,8 +8,7 @@
         "minecraft:protection",
         "minecraft:blast_protection",
         "minecraft:fire_protection",
-        "minecraft:projectile_protection",
-		"magiccombatwands:magic_protection"
+        "minecraft:projectile_protection"
 	],
     "melee_damage": [
         "minecraft:bane_of_arthropods",
@@ -46,6 +45,10 @@
 	"overcharged1": [
         "musuen:overcharged",
 		"musuen:laceration"
+    ],
+	"skyhook": [
+        "musuen:zero_gravity",
+		"musuen:skyhook"
     ],
 	"overcharged2": [
         "musuen:overcharged",

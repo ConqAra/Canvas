@@ -16,7 +16,7 @@
   "auto_smelt": false,
   "homing": true,
   "rise": true,
-  "tank": true,
+  "tank": false,
   "god_of_the_sea": true,
   "consumer": false,
   "double_swing": true,
