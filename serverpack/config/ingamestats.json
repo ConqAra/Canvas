@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "mode": "MINED",
+  "block": "tuff",
+  "position": "BOTTOM_LEFT",
+  "marginX": 10,
+  "marginY": 20,
+  "syncEvery": 60,
+  "bgOpacity": 0.3,
+  "autoSwitchId": true,
+  "autoSwitchMode": true,
+  "autoHide": true,
+  "autoHideTimeout": 10.0,
+  "autoHideFadeDuration": 3.0,
+  "ignoreRenderCreative": true,
+  "hideWhenMenuOpen": false
+}

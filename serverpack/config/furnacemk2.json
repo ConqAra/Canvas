@@ -1,0 +1,9 @@
+{
+  "furnaceBaseEfficiency": 1.0,
+  "furnaceBaseExperience": 1.0,
+  "furnaceBaseSpeed": 1.0,
+  "furnaceUpgradedEfficiency": 1.5,
+  "furnaceUpgradedExperience": 2.0,
+  "furnaceUpgradedSpeed": 2.0,
+  "crystalExperienceStorage": 550
+}

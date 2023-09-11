@@ -1,0 +1,6 @@
+{
+	// The effective radius of a Chorus Fruit when searching for the nearest Chorus Link
+	"baseChorusFruitLinkRadius": 128,
+	// If 'true', the Enchanted Golden Chorus Fruit is able to teleport players inter-dimensionally
+	"enableEnchantedInterDimensionTeleport": true
+}

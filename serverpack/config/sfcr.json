@@ -1,0 +1,28 @@
+{
+  "enableMod": true,
+  "enableServerConfig": true,
+  "secPerSync": 30,
+  "cloudHeight": 192,
+  "cloudLayerThickness": 32,
+  "cloudRenderDistance": 96,
+  "cloudRenderDistanceFitToView": false,
+  "normalRefreshSpeed": "SLOW",
+  "sampleSteps": 3,
+  "enableDebug": false,
+  "enableFog": true,
+  "fogAutoDistance": true,
+  "fogMinDistance": 2,
+  "fogMaxDistance": 4,
+  "enableWeatherDensity": true,
+  "weatherPreDetectTime": 10,
+  "cloudDensityPercent": 25,
+  "rainDensityPercent": 60,
+  "thunderDensityPercent": 90,
+  "weatherRefreshSpeed": "FAST",
+  "densityChangingSpeed": "NORMAL",
+  "biomeDensityMultipler": 0,
+  "biomeFilterList": [
+    "minecraft:river",
+    "minecraft:frozen_river"
+  ]
+}

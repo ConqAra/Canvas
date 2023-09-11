@@ -1,0 +1,9 @@
+{
+  "disabled_resources": [
+    "forgero:diamond-sacrificial_dagger_blade"
+  ],
+  "disabled_packs": [],
+  "enable_repair_kits": true,
+  "resource_logging": true,
+  "log_disabled_packages": false
+}

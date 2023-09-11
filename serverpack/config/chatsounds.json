@@ -1,0 +1,38 @@
+{
+  "join": {
+    "enabled": true,
+    "volume": 1.0,
+    "pitch": 1.0,
+    "sound": "BLOCK_BARREL_OPEN"
+  },
+  "leave": {
+    "enabled": true,
+    "volume": 1.0,
+    "pitch": 1.0,
+    "sound": "BLOCK_BARREL_CLOSE"
+  },
+  "death": {
+    "enabled": true,
+    "volume": 1.0,
+    "pitch": 0.1,
+    "sound": "BLOCK_BELL_USE"
+  },
+  "pm": {
+    "enabled": true,
+    "volume": 1.0,
+    "pitch": 1.0,
+    "sound": "ENTITY_VILLAGER_WORK_CARTOGRAPHER"
+  },
+  "advancement": {
+    "enabled": true,
+    "volume": 1.0,
+    "pitch": 1.0,
+    "sound": "ENTITY_EXPERIENCE_ORB_PICKUP"
+  },
+  "message": {
+    "enabled": true,
+    "volume": 0.3,
+    "pitch": 0.3,
+    "sound": "ENTITY_ITEM_PICKUP"
+  }
+}

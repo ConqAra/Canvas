@@ -1,0 +1,11 @@
+{
+	/* ***********************
+	   General Settings
+	   ***********************
+	*/
+	"enableBackpack": true,
+	"enableVoidpack": true,
+	"enableEnderpack": true,
+	"enableSimpleBundle": true,
+	"enableVoidBundle": true
+}

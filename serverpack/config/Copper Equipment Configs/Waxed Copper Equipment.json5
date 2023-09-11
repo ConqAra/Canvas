@@ -1,0 +1,20 @@
+{
+	/* Copper Equipment Mod! Waxed Config!
+	*/
+	"WaxedCopperArmorDurability": 300,
+	// + 12 👒; 98 👕; 79 👖; 34 🥾.
+	"WaxedCopperToolsDurability": 420,
+	// // //
+	"WaxedCopperHelmetProtection": 1,
+	"WaxedCopperChestplateProtection": 5,
+	"WaxedCopperLeggingsProtection": 4,
+	"WaxedCopperBootsProtection": 1,
+	// // //
+	"WaxedCopperSwordDamage": 6,
+	"WaxedCopperSwordAttackSpeed": -2.5,
+	"WaxedCopperAxeDamage": 9,
+	"WaxedCopperAxeAttackSpeed": -3.299999952316284,
+	// // //
+	"WaxedCopperToolsMiningLevel": 2,
+	"EnableWaxed": true
+}

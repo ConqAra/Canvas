@@ -1,0 +1,16 @@
+{
+	"modEnabled": true,
+	"switchRollAndYaw": false,
+	"momentumBasedMouse": false,
+	"showMomentumWidget": true,
+	"desktopSensitivity": {
+		"pitch": 1.0,
+		"yaw": 0.4,
+		"roll": 1.0
+	},
+	"controllerSensitivity": {
+		"pitch": 1.0,
+		"yaw": 0.4,
+		"roll": 1.0
+	}
+}

@@ -1,0 +1,14 @@
+{
+	// Canister Stack Size
+	"stackSize": 10,
+	// Amethyst Apple Hunger Value
+	"hunger": 20,
+	// Amethyst Apple Saturation Value
+	"saturation": 0.800000011920929,
+	// Wither Rib Drop Chance
+	"witherRibDropChance": 0.15,
+	// Allow Player Starting Tweaks
+	"allowPlayerStartingTweaks": false,
+	// Starting Health of Player (Default:20)
+	"startingHealth": 20
+}

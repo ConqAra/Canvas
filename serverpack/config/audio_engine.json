@@ -1,0 +1,31 @@
+{
+  "categoryClasses": {
+    "voice": 0,
+    "music": 4,
+    "hostile": 2,
+    "record": 4,
+    "weather": 6,
+    "neutral": 5,
+    "block": 3,
+    "ambient": 6,
+    "master": 0,
+    "player": 1
+  },
+  "maxPercentPerCategory": {
+    "voice": 1.0,
+    "music": 0.7,
+    "hostile": 0.9,
+    "record": 0.7,
+    "weather": 0.5,
+    "neutral": 0.6,
+    "block": 0.8,
+    "ambient": 0.5,
+    "master": 1.0,
+    "player": 0.95
+  },
+  "instantCategories": [
+    "music",
+    "master"
+  ],
+  "maxDuplicatedSounds": 5
+}

@@ -1,0 +1,21 @@
+{
+	/* Copper Equipment Mod Config!
+	*/
+	"CopperArmorDurability": 70,
+	// + 12 👒; 98 👕; 79 👖; 34 🥾.
+	"CopperToolsDurability": 120,
+	// // //
+	"CopperHelmetProtection": 2,
+	"CopperChestplateProtection": 6,
+	"CopperLeggingsProtection": 5,
+	"CopperBootsProtection": 2,
+	// // //
+	"CopperSwordDamage": 6,
+	"CopperSwordAttackSpeed": -2.299999952316284,
+	"CopperAxeDamage": 9,
+	"CopperAxeAttackSpeed": -3.0999999046325684,
+	// // //
+	"CopperToolsMiningLevel": 2,
+	// // //
+	"EnableButtons": true
+}

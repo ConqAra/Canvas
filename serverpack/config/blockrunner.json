@@ -1,0 +1,8 @@
+{
+  "#blockrunner:slow_blocks": 0.80,
+  "#blockrunner:slightly_slow_blocks": 0.90,
+  "#blockrunner:quick_blocks": 1.30,
+  "#blockrunner:very_slow_blocks": 0.60,
+  "#blockrunner:very_quick_blocks": 1.40,
+  "#blockrunner:slightly_quick_blocks": 1.20
+}

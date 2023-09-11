@@ -1,0 +1,20 @@
+{
+	/* Whether the camera should be controlled by this mod or not.
+	   NOTE: This setting can be toggled using a key bind.
+	*/
+	"boatMode": false,
+	/* 1 - Smooth camera, might even lag behind.
+	   100 - Camera angle might change very abruptly.
+	*/
+	"smoothness": 50,
+	// Perspective when riding a boat in boat mode. Perspective wont change when this is set to none.
+	"perspective": "NONE",
+	// Whether to fix the camera angle at a certain pitch.
+	"fixedPitch": false,
+	// Fixed vertical angle of the camera when fixedPitch is enabled.
+	"pitch": 25,
+	/* Disables the turn limit in a boat.
+	   NOTE: The turn limit is always disabled in boat mode!
+	*/
+	"turnLimitDisabled": false
+}

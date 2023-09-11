@@ -1,0 +1,6 @@
+{
+	// If enabled, drops all conduit blocks when the conduit itself is broken.
+	"breakConduitBlocks": true,
+	// If enabled, when prismarine replaces a normal block that block is dropped on top of the conduit.
+	"dropReplacedBlockTopConduit": true
+}

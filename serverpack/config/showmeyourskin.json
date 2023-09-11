@@ -1,0 +1,26 @@
+{
+  "combatCooldown": 16,
+  "global": {
+    "pieces": {
+      "FEET": {
+        "transparency": 100,
+        "enchantGlint": true
+      },
+      "CHEST": {
+        "transparency": 100,
+        "enchantGlint": true
+      },
+      "LEGS": {
+        "transparency": 100,
+        "enchantGlint": true
+      },
+      "HEAD": {
+        "transparency": 100,
+        "enchantGlint": true
+      }
+    },
+    "showInCombat": true,
+    "showNameTag": true
+  },
+  "overrides": {}
+}

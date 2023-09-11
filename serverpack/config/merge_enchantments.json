@@ -1,0 +1,9 @@
+{
+  "protection": false,
+  "bow": true,
+  "crossbow": true,
+  "weapon": false,
+  "trident": false,
+  "boots": false,
+  "silkTouch": true
+}

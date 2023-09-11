@@ -1,0 +1,29 @@
+{
+  "force_include": {
+    "end_land_biomes": [],
+    "end_void_biomes": [],
+    "nether_biomes": []
+  },
+  "minecraft": {
+    "end_midlands": {
+      "generation_chance [default: 0.5]": 0.5
+    },
+    "end_highlands": {
+      "generation_chance [default: 0.5]": 0.5
+    }
+  },
+  "enderscape": {
+    "celestial_plains": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0,
+      "vertical [default: false]": false,
+      "terrain_height [default: 0.1]": 0.1
+    },
+    "celestial_islands": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0,
+      "vertical [default: false]": false,
+      "terrain_height [default: 0.1]": 0.1
+    }
+  }
+}

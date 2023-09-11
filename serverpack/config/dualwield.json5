@@ -1,0 +1,10 @@
+{
+	// Set to false to disable Dual Wield enchantment book [default = true]
+	"enableDualWieldEnchantment": true,
+	// Control how much of the dual wielded offhand base weapon damage will apply per hit [0.0 for 0%, 1.0 for 100%, etc.] [default = 0.7]
+	"dualWieldedOffHandDamageMultiplier": 0.7,
+	// True to enable bonus damage from enchantments to dual wielded offhand weapon [default = true]
+	"includeOffhandEnchantmentDamage": true,
+	// Set to true to enable Dual Wielding for all weapons, regardless of enchantment [default = false]
+	"creativeDualWield": false
+}

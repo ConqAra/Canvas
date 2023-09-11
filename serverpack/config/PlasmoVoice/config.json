@@ -1,0 +1,80 @@
+{
+  "servers": {
+    "192.168.1.213": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "96.253.64.89": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "74.110.203.31": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "192.168.1.244": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "72.84.238.187": {
+      "distance": 16,
+      "priorityDistance": 48
+    },
+    "127.0.0.1": {
+      "distance": 16,
+      "priorityDistance": 48
+    }
+  },
+  "playerVolumes": {
+    "a8d616eb-a873-4f27-9f78-c165f9d99222": 0.0
+  },
+  "whitelist": false,
+  "voiceVolume": 1.0,
+  "priorityVolume": 1.0,
+  "occlusion": false,
+  "speakerMuted": false,
+  "showIcons": 0,
+  "micIconPosition": "BOTTOM_CENTER",
+  "voiceActivation": false,
+  "voiceActivationThreshold": -30.0,
+  "microphoneAmplification": 1.0,
+  "microphone": "OpenAL Soft on Microphone (NVIDIA RTX Voice)",
+  "rnNoise": false,
+  "microphoneMuted": false,
+  "javaxCapture": false,
+  "hrtf": false,
+  "directionalSources": false,
+  "directionalSourcesAngle": 145,
+  "compressor": true,
+  "compressorThreshold": -10,
+  "limiterThreshold": -6,
+  "visualizeDistance": true,
+  "keyBindings": {
+    "pushToTalk": [
+      {
+        "type": "KEYSYM",
+        "code": 342
+      }
+    ],
+    "priorityPushToTalk": [],
+    "muteMicrophone": [
+      {
+        "type": "KEYSYM",
+        "code": 77
+      }
+    ],
+    "muteChat": [],
+    "action": [
+      {
+        "type": "MOUSE",
+        "code": 1
+      }
+    ],
+    "increaseDistance": [],
+    "decreaseDistance": [],
+    "occlusion": []
+  },
+  "showPriorityVolume": true,
+  "micReverb": true,
+  "micReverbVolume": 1.0
+}

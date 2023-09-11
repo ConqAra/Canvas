@@ -1,0 +1,7 @@
+# Replaces blocks in structures with their respective wood variant.
+# Villages: Bookshelves and chests use the respective wood from the village
+# Stronghold: All oak wood is replaced with spruce, including bookshelves, chests, doors
+# Mansion: Bookshelves and chests are replaced with Dark Oak variants
+# Bastions: Chests replaced with crimson chests
+"Enable Structure Replacements" = true
+

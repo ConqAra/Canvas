@@ -1,0 +1,16 @@
+{
+  "warningMessage": false,
+  "generateStones": true,
+  "generateSticks": true,
+  "harderGroundBlocks": true,
+  "crafting": {
+    "enableWoodenTools": false,
+    "enableStoneTools": false,
+    "enablePlanksAndSticks": false
+  },
+  "damageProbability": 2.5,
+  "flintConsumeProb": 0.3,
+  "flintSuccessProb": 0.7,
+  "woodChoppingProb": 0.5,
+  "fireStartProb": 0.3
+}

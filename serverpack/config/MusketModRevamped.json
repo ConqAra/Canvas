@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "bulletMaxDistance": 256.0,
+  "musket": {
+    "bulletStdDev": 1.0,
+    "bulletSpeed": 180.0,
+    "damageMin": 18.0,
+    "damageMax": 21.0,
+    "loadingTimesSequence": [
+      50,
+      120,
+      240,
+      400
+    ],
+    "ignoreInvulnerableTime": true
+  },
+  "pistol": {
+    "bulletStdDev": 1.8,
+    "bulletSpeed": 120.0,
+    "damageMin": 10.0,
+    "damageMax": 12.0,
+    "loadingTimesSequence": [
+      40,
+      80,
+      160,
+      240
+    ],
+    "ignoreInvulnerableTime": false
+  }
+}

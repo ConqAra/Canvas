@@ -1,0 +1,8 @@
+# Sets the number of nearest entities to render dynamic lights.
+dynamiclights.max_nearest_entities: 3
+
+# Sets the update frequency of dynamic lights (SMOOTH: always update, FASTEST: every 4th tick)
+dynamiclights.performance: SMOOTH
+
+# Render entities with dynamic lights
+dynamiclights.spreadness: FAST

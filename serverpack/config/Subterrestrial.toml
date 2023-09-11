@@ -1,0 +1,35 @@
+moddedLootInChests = true
+extractinatorSupport = true
+techLoot = "TECH_REBORN"
+
+[defaultCabin]
+minHeight = 3
+maxHeight = 42
+
+[deepslateCabin]
+minHeight = -56
+maxHeight = -3
+
+[desertCabin]
+minHeight = 3
+maxHeight = 44
+
+[mesaCabin]
+minHeight = 3
+maxHeight = 48
+
+[taigaCabin]
+minHeight = 3
+maxHeight = 48
+
+[iceCabin]
+minHeight = 3
+maxHeight = 42
+
+[jungleCabin]
+minHeight = 3
+maxHeight = 44
+
+[oceanCabin]
+minHeight = 24
+maxHeight = 44

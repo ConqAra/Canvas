@@ -1,0 +1,4 @@
+[general]
+disableVanillaFortresses = false
+startMinY = 62
+startMaxY = 82
