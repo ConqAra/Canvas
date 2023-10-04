@@ -40,7 +40,7 @@ biomeBlendRadius:7
 renderClouds:true
 resourcePacks:["vanilla","Fabric Mods","walllanterns/moddedlanternscompat","minecraft/supporteatinganimation","fabric-copper-golem/copper_golem","Create+Immersive+Aircrafts+Resource+Pack+1.18.2+-+1.2.zip","Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip","Stardust Labs Omni-Biome Name Fix v1.0.zip","resources/simplehats_hatdl.zip","§aPaler-Birch-Wood§8-[v3].zip","itemswapper/default"]
 incompatibleResourcePacks:["Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip","§aPaler-Birch-Wood§8-[v3].zip"]
-lastServer:192.168.1.244
+lastServer:canvas2.ddns.net
 lang:en_us
 soundDevice:
 chatVisibility:0
