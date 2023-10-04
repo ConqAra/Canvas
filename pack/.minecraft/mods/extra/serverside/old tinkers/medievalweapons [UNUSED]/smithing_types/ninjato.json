@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "medievalweapons:wooden_ninjato",
+    "medievalweapons:stone_ninjato",
+    "medievalweapons:iron_ninjato",
+    "medievalweapons:golden_ninjato",
+    "medievalweapons:diamond_ninjato",
+    "medievalweapons:netherite_ninjato",
+    "medievalweapons:pendorite_ninjato"
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "medievalweapons"
+      ]
+    }
+  ]
+}

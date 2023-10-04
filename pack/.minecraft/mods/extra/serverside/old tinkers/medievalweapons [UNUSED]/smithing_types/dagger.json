@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "medievalweapons:wooden_dagger",
+    "medievalweapons:stone_dagger",
+    "medievalweapons:iron_dagger",
+    "medievalweapons:golden_dagger",
+    "medievalweapons:diamond_dagger",
+    "medievalweapons:netherite_dagger",
+    "medievalweapons:pendorite_dagger"
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "medievalweapons"
+      ]
+    }
+  ]
+}

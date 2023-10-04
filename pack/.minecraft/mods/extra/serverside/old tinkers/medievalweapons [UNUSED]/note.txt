@@ -1,0 +1,1 @@
+medievelweapons 1.2 recipes are literally hardcoded. the best i could do is add netherite scrap for repairing in a crafting interface. smithing_types folder will go unused until someone gets a version of the mod that has recipes in the data folder for tinkers smithing to apply recipes correctly.

@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "medievalweapons:wooden_small_axe",
+    "medievalweapons:stone_small_axe",
+    "medievalweapons:iron_small_axe",
+    "medievalweapons:golden_small_axe",
+    "medievalweapons:diamond_small_axe",
+    "medievalweapons:netherite_small_axe",
+    "medievalweapons:pendorite_small_axe"
+  ],
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "medievalweapons"
+      ]
+    }
+  ]
+}

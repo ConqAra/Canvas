@@ -4,7 +4,7 @@
   "_notice3": "enabled, but if you\u0027re not comfortable with this, you can turn this setting off. There is no",
   "_notice4": "performance penalty associated with having metrics enabled, and data sent to bStats is fully",
   "_notice5": "anonymous.",
-  "serverUuid": "7f7cf5e1-d980-477f-afdf-ce5683db9c54",
+  "serverUuid": "d6e1e41d-0f8c-4b57-a3ea-caef4a2514b6",
   "enabled": true,
   "logFailedRequests": false,
   "logSentData": false,
