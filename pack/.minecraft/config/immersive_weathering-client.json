@@ -1,7 +1,7 @@
 {
   "general": {
-    "leaves_decay_particles": true,
-    "falling_leaf_particles": true,
-    "decay_sound": true
+    "leaves_decay_particles": false,
+    "falling_leaf_particles": false,
+    "decay_sound": false
   }
 }

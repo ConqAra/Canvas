@@ -18,11 +18,11 @@ musketBulletStdDev = 1.0
 # Muzzle velocity of bullet (in blocks per second)
 musketBulletSpeed = 220.0
 # Minimum damage at point-blank range
-musketDamageMin = 27.5
+musketDamageMin = 18.0
 # Maximum damage at point-blank range
-musketDamageMax = 28.0
+musketDamageMax = 21.0
 # Reload duration
-musketReloadDuration = 320.0
+musketReloadDuration = 160.0
 # Durability
 musketDurability = 35.0
 
@@ -33,11 +33,11 @@ rifleBulletStdDev = 0.2
 # Muzzle velocity of bullet (in blocks per second)
 rifleBulletSpeed = 230.0
 # Minimum damage at point-blank range
-rifleDamageMin = 27.0
+rifleDamageMin = 18.0
 # Maximum damage at point-blank range
-rifleDamageMax = 28.0
+rifleDamageMax = 21.0
 # Reload duration
-rifleReloadDuration = 400.0
+rifleReloadDuration = 200.0
 # Durability
 rifleDurability = 25.0
 
@@ -48,11 +48,11 @@ pistolBulletStdDev = 1.5
 # Muzzle velocity of bullet (in blocks per second)
 pistolBulletSpeed = 140.0
 # Minimum damage at point-blank range
-pistolDamageMin = 12.0
+pistolDamageMin = 10.0
 # Maximum damage at point-blank range
-pistolDamageMax = 12.5
+pistolDamageMax = 12.0
 # Reload duration
-pistolReloadDuration = 260.0
+pistolReloadDuration = 130.0
 # Durability
 pistolDurability = 30.0
 
@@ -69,7 +69,7 @@ blunderbussDamageMin = 8.0
 # Maximum damage at point-blank range
 blunderbussDamageMax = 10.0
 # Reload duration
-blunderbussReloadDuration = 400.0
+blunderbussReloadDuration = 200.0
 # Durability
 blunderbussDurability = 45.0
 

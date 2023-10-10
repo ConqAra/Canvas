@@ -1,0 +1,54 @@
+{
+  /*
+  * Hello there! thanks for using my mod!
+  * You guessed it, this file is the config file for my RecipeDisabler mod.
+  * Just a quick warning before getting any further with this mod.
+  * While the command helps out with editing the config, it does not apply the
+  * changes immediately! In fact, this mod only applies changes upon resources
+  * loading. So you have to enable "save on reload" or manually save if you have
+  * "auto reload" enabled, and then reload the resources (just the /reload command)
+  * And with that being said, enjoy!
+  * ~Nerjal
+  */
+  // do not touch, helps the mod keep the config up with its own updates
+  "config_version": 3, 
+  /*
+  * Whether the config is reloaded when the world reloads
+  * Default: true
+  */
+  "auto_reload": true, 
+  /*
+  * Whether the config should be saved before world reload (overrides auto-reload)
+  * Default: true
+  */
+  "save_on_reload": true, 
+  /*
+  * Whether the mod only accepts resources under the "recipes" base folder.
+  * The recipes folder won't be anymore needed in the specified disabled/kept resources
+  * Default: true
+  */
+  "only_track_recipes_folder": true, 
+  /*
+  * Whether should the mod show in the console when a resource's loading is
+  * prevented from being disabled. It is advised to let it to `false` when
+  * playing, to avoid spamming the console, mostly with big modpacks.
+  * Default: false
+  */
+  "log_recipes_disabling": false, 
+  /*
+  * The list of resources that would bypass the disabling.
+  * Only useful when disabling while using regex generalisation.
+  * Regex is supported as well.
+  * Default: []
+  */
+  "keep_recipes": [], 
+  /*
+  * The list of disabled resources that would be ignored upon resource loading.
+  * Resources can be generalized using RegEx.
+  * eg: "namespace:recipes/id_with_{regex|\d}*"
+  * Default: []
+  */
+  "disabled_recipes": [
+    "minecraft:shield"
+  ]
+}

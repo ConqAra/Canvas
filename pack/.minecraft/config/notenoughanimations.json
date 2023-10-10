@@ -24,7 +24,7 @@
   "dontHoldItemsInBed": true,
   "freezeArmsInBed": true,
   "rotationLock": "NONE",
-  "showLastUsedSword": true,
+  "showLastUsedSword": false,
   "sheathSwords": [
     "minecraft:golden_sword",
     "minecraft:iron_sword",
