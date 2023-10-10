@@ -49,6 +49,7 @@
   * Default: []
   */
   "disabled_recipes": [
+    "bclib:tag_shield", 
     "minecraft:shield"
   ]
 }
