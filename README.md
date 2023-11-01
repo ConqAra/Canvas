@@ -7,3 +7,11 @@ disclaimer: none of these mods were made by me.
 minecraft version: 1.18.2
 
 java version: jdk 18
+
+recommendations:
+
+8gb ram MINIMUM for singleplayer.
+
+10gb ram MINIMUM for hosting a server.
+
+note: if you are joining a multiplayer server and not hosting one with canvas, you only need like 6gb. the server will do all the hardwork for you.
