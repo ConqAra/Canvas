@@ -131,6 +131,7 @@
 			blockIds: [
 				minecraft:emerald_ore
 				minecraft:deepslate_emerald_ore
+				byg:emeraldite_ore
 			]
 			transition: true
 			effectRadius: 16
@@ -142,6 +143,14 @@
 			]
 			transition: true
 			effectRadius: 16
+		}
+		{
+			highlightColor: "#382F5E"
+			blockIds: [
+				byg:pendorite_ore
+			]
+			transition: true
+			effectRadius: 8
 		}
 		{
 			highlightColor: "#947c8e"

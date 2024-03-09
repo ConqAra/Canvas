@@ -1,4 +1,3 @@
-
 # Lets you enable / disable certain features and modify them.
 [features]
 	# (Default = true) Optimizes vanilla's per-player mobspawning by using PaperMC's PlayerMobDistanceMap.
@@ -29,7 +28,6 @@
 	# (Default = 0.5) Decides the radius in blocks that items / xp will merge at.
 	item_merge_radius = 0.5
 	xp_merge_radius = 0.5
-
 # Modifies mobcaps, no-chunk-tick, simulation and view-distance depending on the MSPT.
 [dynamic]
 	# (Default = false) Enables this feature.
@@ -53,7 +51,6 @@
 	# (Default = [Max: 1.0, Min: 0.3]) Global multiplier that decides the percentage of the mobcap to be used.
 	max_mobcap = 1.0
 	min_mobcap = 0.3
-
 # Stops animals / villagers from breeding if there are too many of the same type nearby.
 [entity_limits]
 	# (Default = false) Enables this feature.
@@ -64,7 +61,6 @@
 	# (Default = [Villager: 64, Animals: 64]) The range it will check for entities of the same type.
 	villager_range = 64
 	animal_range = 64
-
 # Allows you to disable specific commands and modify the way some of them are formatted.
 [commands]
 	# Enables / disables the /servercore status command.
@@ -91,7 +87,6 @@
 	stats_page_content = "<green>%INDEX%. <dark_aqua>%NAME%</dark_aqua> %COUNT%</green>"
 	# The footer for the /statistics (block) entities command.
 	stats_page_footer = "<dark_aqua>%LINE% <green>%PREV_PAGE%</green> Page <aqua>%PAGE%</aqua> of <aqua>%PAGE_COUNT%</aqua> <green>%NEXT_PAGE%</green> %LINE%"
-
 # Stops entities from ticking if they are too far away.
 [activation_range]
 	# (Default = false) Enables this feature.
@@ -146,4 +141,3 @@
 	# Activation range settings for miscellaneous entities.
 	misc_activation_range = 16
 	misc_tick_inactive = true
-

@@ -15,4 +15,3 @@ thrusterBootsChargeHUDX = 502
 #Y-Offset of the Thruster Boots Charge HUD
 #Range: -1000 ~ 1000
 thrusterBootsChargeHUDY = 345
-

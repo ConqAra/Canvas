@@ -34,7 +34,7 @@
 		// Should Telekinetic Shock be enabled? (Restart Required)
 		"enableTelekineticShock": true,
 		// Should Heal be enabled? (Restart Required)
-		"enableHeal": true,
+		"enableHeal": false,
 		// Should Discombobulate be enabled? (Restart Required)
 		"enableDiscombobulate": true,
 		// Should Solar Strike be enabled? (Restart Required)
