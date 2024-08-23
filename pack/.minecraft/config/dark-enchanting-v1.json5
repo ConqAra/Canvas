@@ -93,47 +93,53 @@
       "personalFactor": 2.0,
       "personalReceiveFactor": 1.0
     },
+	{
+      "enchantmentId": "chestcavity:o_negative",
+      "activated": true,
+      "personalFactor": 2.0,
+      "personalReceiveFactor": 2.0
+    },
     {
       "enchantmentId": "musuen:laceration",
       "activated": false,
       "personalFactor": 3.0,
-      "personalReceiveFactor": 2.0
+      "personalReceiveFactor": 3.0
     },
     {
       "enchantmentId": "musuen:overcharged",
       "activated": false,
       "personalFactor": 3.0,
-      "personalReceiveFactor": 2.0
+      "personalReceiveFactor": 3.0
     },
     {
       "enchantmentId": "musuen:phasing",
       "activated": false,
       "personalFactor": 3.0,
-      "personalReceiveFactor": 2.0
+      "personalReceiveFactor": 3.0
     },
     {
       "enchantmentId": "musuen:skewering",
       "activated": false,
       "personalFactor": 3.0,
-      "personalReceiveFactor": 2.0
+      "personalReceiveFactor": 3.0
     },
     {
       "enchantmentId": "musuen:unearthing",
       "activated": false,
       "personalFactor": 3.0,
-      "personalReceiveFactor": 2.0
+      "personalReceiveFactor": 3.0
     },
     {
       "enchantmentId": "musuen:berserker",
       "activated": false,
       "personalFactor": 3.0,
-      "personalReceiveFactor": 2.0
+      "personalReceiveFactor": 3.0
     },
     {
       "enchantmentId": "musuen:guillotining",
       "activated": false,
       "personalFactor": 3.0,
-      "personalReceiveFactor": 2.0
+      "personalReceiveFactor": 3.0
     }
   ]
 }
