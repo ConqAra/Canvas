@@ -1,7 +1,7 @@
 {
-  "semanticVersion": "2.1",
+  "semanticVersion": "2.2",
   "updateInfo": {
-    "en_us": "Welcome to Canvas 2.1! Look for the help.rar in the modpack files for more info or if you're having any issues. Have fun playing! You can check out the {link} for any more future updates."
+    "en_us": "Welcome to Canvas 2.2! Look for the help.rar in the modpack files for more info or if you're having any issues. Have fun playing! You can check out the {link} for any more future updates."
 },
   "modHost": "Github",
   "modDownload": "https://github.com/ConqAra/Canvas"
