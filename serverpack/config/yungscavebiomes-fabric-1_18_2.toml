@@ -1,0 +1,7 @@
+[lostCaves]
+enableSandstorms = true
+extraSandstormParticles = true
+minSandstormDuration = 120
+maxSandstormDuration = 600
+minTimeBetweenSandstorms = 1200
+maxTimeBetweenSandstorms = 2400

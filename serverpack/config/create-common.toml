@@ -1,6 +1,4 @@
-
 [worldgen]
-
 	#.
 	#Modify Create's impact on your terrain
 	[worldgen.v2]
@@ -25,7 +23,6 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 0.0833333358168602
-
 		[worldgen.v2.zinc_ore]
 			#.
 			#Range: > -2147483648
@@ -43,7 +40,6 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 8.0
-
 		[worldgen.v2.striated_ores_nether]
 			#.
 			#Range: > -2147483648
@@ -61,4 +57,3 @@
 			#  0 to disable.
 			#Range: 0.0 ~ 512.0
 			frequency = 0.0833333358168602
-

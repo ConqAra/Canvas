@@ -1,15 +1,13 @@
 version = 3
-# (Default: 6) Configures the parallelism of global executor
+# (Default: 5) Configures the parallelism of global executor
 globalExecutorParallelism = "default"
 
 [clientSideConfig]
-
 	[clientSideConfig.modifyMaxVDConfig]
 		# (Default: true) Whether to modify maximum view distance
 		enabled = "default"
 		# (Default: 128) Max render distance allowed in game options
 		maxViewDistance = "default"
-
 [noTickViewDistance]
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
@@ -22,7 +20,6 @@ globalExecutorParallelism = "default"
 	updatesPerTick = "default"
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
-
 [generalOptimizations]
 	# (Default: true) Whether to enable mid-tick chunk tasks  
 	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
@@ -50,7 +47,6 @@ globalExecutorParallelism = "default"
 		# This is only used when mode is set to ENHANCED
 		# 
 		delay = "default"
-
 [ioSystem]
 	# (Default: true) Whether to use async chunk loading & unloading
 	async = "default"
@@ -71,14 +67,12 @@ globalExecutorParallelism = "default"
 	chunkDataCacheSoftLimit = "default"
 	# (Default: 6144) Hard limit for io worker nbt cache
 	chunkDataCacheLimit = "default"
-
 [asyncScheduling]
 	# (Default: true) Whether to enable async and parallel scheduling 
 	# This will reduce server thread load 
 	# (may cause incompatibility with other mods)
 	# 
 	enabled = "default"
-
 [threadedWorldGen]
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
@@ -88,7 +82,6 @@ globalExecutorParallelism = "default"
 	reduceLockRadius = "default"
 	# (Default: true) Whether to enable this feature
 	enabled = "default"
-
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
 	# (may cause incompatibility with other mods)
@@ -98,4 +91,3 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	useEndBiomeCache = "default"
-

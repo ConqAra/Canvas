@@ -508,3 +508,6 @@ mode = "fancy"
 				colossus = true
 				colossus_part = true
 
+			[light_sources.settings.entities.yungscavebiomes]
+				sand_snapper = true
+

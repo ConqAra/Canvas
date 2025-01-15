@@ -504,3 +504,10 @@ mode = "fancy"
 				driftlet = true
 				rubblemite = true
 
+			[light_sources.settings.entities.musuen]
+				colossus = true
+				colossus_part = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				sand_snapper = true
+

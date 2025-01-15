@@ -1,9 +1,4 @@
 {
-    /* This default config serves as an example on how to set up groups
-       Since these enchantments are mutually exclusive by default already
-       you will probably not notice any changes when enchanting.
-       Create your own enchantment groups here or expand on these defaults, if you wish
-    */
     "protection": [
         "minecraft:protection",
         "minecraft:blast_protection",

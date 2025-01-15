@@ -1,4 +1,3 @@
-
 [chopping]
 	#Default setting for whether or not the user wishes to chop (can be toggled in-game)
 	choppingEnabled = true
@@ -11,7 +10,6 @@
 	treesMustHaveLeaves = true
 	#Enable chopping in creative mode (even when false, sneaking can still enable chopping) (can be toggled in-game)
 	chopInCreativeMode = false
-
 [visuals]
 	#Visually replace the interior sides of logs with a chopped texture instead of bark
 	removeBarkOnInteriorLogs = true
@@ -25,7 +23,6 @@
 		#Vertical location of the indicator relative to the player's crosshairs; positive values move the indicator down
 		#Range: -256 ~ 256
 		yOffset = 0
-
 [settingsScreen]
 	#Show in-game options for enabling and disable felling (can be toggled in-game)
 	showFellingOptions = false
@@ -33,4 +30,3 @@
 	showFeedbackMessages = true
 	#Show tooltips in the settings screen (can be toggled in-game)
 	showTooltips = true
-

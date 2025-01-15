@@ -1,0 +1,14 @@
+{
+	"Depth Sampler Rate": 0,
+	"Culling Map update delay": 1,
+	"Cull Entity": true,
+	"Cull Block Entity": true,
+	"Cull Chunk": true,
+	"Async Rebuild Chunk": true,
+	"Entities Excluded from Culling": [
+		"create:stationary_contraption"
+	],
+	"Block Entities Excluded from Culling": [
+		"minecraft:beacon"
+	]
+}

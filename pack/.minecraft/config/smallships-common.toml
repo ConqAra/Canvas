@@ -46,6 +46,12 @@ schematicVersion = 4
 			shipGeneralDespawnTimeSunken = 15.0
 			#Entities in this list won't be able to mount a ship, for example: ["minecraft:creeper", "minecraft:sheep", ...]
 			mountBlackList = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:wither", "minecraft:ghast", "minecraft:warden", "minecraft:ravager", "alexmobs:cachalot_whale"]
+			#Amount of damage a cannonball does on hit.
+			#Range: 0.0 ~ 100.0
+			shipGeneralCannonDamage = 25.0
+			#Amount of destruction a cannonball does when hit the ground.
+			#Range: 0.0 ~ 100.0
+			shipGeneralCannonDestruction = 1.0
 	[Ship.Cog]
 		#Default configs for the container of the Cog.
 		[Ship.Cog.Container]
@@ -53,17 +59,17 @@ schematicVersion = 4
 			shipContainerCogContainerSize = 108
 		#Default attributes for the Cog. Speed in km/h, Health in default mc health points
 		[Ship.Cog.Attributes]
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeCogMaxRotationSpeed = 4.5
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeCogMaxSpeed = 30.0
-			#Range: 1.0 ~ 1.7976931348623157E308
+			#Range: 1.0 ~ 10000.0
 			shipAttributeCogMaxHealth = 300.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeCogRotationAcceleration = 0.7
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeCogMaxReverseSpeed = 0.1
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeCogAcceleration = 0.015
 		#Cog specific speed modifiers.
 		[Ship.Cog.Modifier]
@@ -77,17 +83,17 @@ schematicVersion = 4
 			shipContainerBriggContainerSize = 162
 		#Default attributes for the Brigg. Speed in km/h, Health in default mc health points
 		[Ship.Brigg.Attributes]
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeBriggMaxSpeed = 35.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeBriggMaxReverseSpeed = 0.1
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeBriggRotationAcceleration = 0.55
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 10000.0
 			shipAttributeBriggMaxHealth = 450.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeBriggAcceleration = 0.015
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeBriggMaxRotationSpeed = 4.0
 		#Brigg specific speed modifiers.
 		[Ship.Brigg.Modifier]
@@ -101,17 +107,17 @@ schematicVersion = 4
 			shipContainerGalleyContainerSize = 54
 		#Default attributes for the Galley. Speed in km/h, Health in default mc health points
 		[Ship.Galley.Attributes]
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyAcceleration = 0.015
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyMaxSpeed = 30.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 10000.0
 			shipAttributeGalleyMaxHealth = 200.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyMaxReverseSpeed = 0.1
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyMaxRotationSpeed = 5.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeGalleyRotationAcceleration = 1.0
 		#Galley specific speed modifiers.
 		[Ship.Galley.Modifier]
@@ -121,17 +127,17 @@ schematicVersion = 4
 	[Ship.Drakkar]
 		#Default attributes for the Drakkar. Speed in km/h, Health in default mc health points
 		[Ship.Drakkar.Attributes]
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 10000.0
 			shipAttributeDrakkarMaxHealth = 200.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeDrakkarMaxSpeed = 30.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeDrakkarMaxReverseSpeed = 0.1
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeDrakkarMaxRotationSpeed = 5.0
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeDrakkarAcceleration = 0.015
-			#Range: 0.0 ~ 1.7976931348623157E308
+			#Range: 0.0 ~ 100.0
 			shipAttributeDrakkarRotationAcceleration = 1.0
 		#Default configs for the container of the Drakkar.
 		[Ship.Drakkar.Container]

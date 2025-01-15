@@ -59,8 +59,7 @@
       "musuen:evolving",
       "musuen:gluttony",
       "musuen:experiencing",
-      "musuen:colossus",
-      "passableleaves:leaf_walker"
+      "musuen:colossus"
     ],
     "global_enchantment_cap": 6,
     "enchantment_caps": {

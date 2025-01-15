@@ -1,4 +1,3 @@
-
 #General settings
 [general]
 	#Show extended debug info in coupler goggle overlay
@@ -13,4 +12,3 @@
 	#Journeymap train overlay update time (in ticks)
 	#Range: 1 ~ 600
 	journeymapUpdateTicks = 1
-
