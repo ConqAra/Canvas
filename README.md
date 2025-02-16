@@ -52,7 +52,9 @@ canvas modpack i made for my friends. a huge collection of fabric mods (sort of)
 
 ### instructions and version info are in the releases. if you need help or need more info look in the 'help.rar'!
 
+fabric loader: 0.14.22
+java version: 18
+
 recommendations:
 - 8gb ram MINIMUM (probably) for singleplayer.
 - 10gb ram MINIMUM (most likely) for hosting a server.
-
