@@ -1,0 +1,1 @@
+if the error you're getting is exit code 6 on Linux then edit your MC instance and change LWJGL from version 3.2.2 to 3.3.1
