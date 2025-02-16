@@ -1,6 +1,6 @@
 # Canvas
 
-canvas modpack i made for my friends. a huge collection of fabric mods (sort of) balanced and made with the intention of a modded experience that doesn't take away from the main premise of minecraft like other huge modpacks, but instead adds onto it to create a fun experience that can be used decently on low-end pcs. has a bunch of tweaks, rpg and tech aspects, overhauls, and all-around quality of life. has a lot of love and effort put into it, worked on this for over a year and am happy with the results. enjoy!
+canvas modpack i made for my friends. a huge collection of fabric mods (sort of) balanced and made with the intention of a modded experience that doesn't take away from the main premise of minecraft like other huge modpacks, but instead adds onto it to create a fun experience that can be used decently on low-end pcs. has a bunch of tweaks, rpg and tech aspects, overhauls, and all-around quality of life. has a lot of love and effort put into it, worked on this for over 2 years and am happy with the results. enjoy!
 
 > ## ![CanvasDev](https://github.com/user-attachments/assets/d313aa56-7fbd-43d7-bf99-a45618315992) some notable info:
   
@@ -28,7 +28,7 @@ canvas modpack i made for my friends. a huge collection of fabric mods (sort of)
 > - you can now set up trading tables that have an inventory stock and villager-like trade function with the new currency. automatic trades between players can be made through this block.
 
 <details>
-<summary>some more cool mod info:</summary>
+<summary>some more cool info:</summary>
 
 >   - villagers no longer sell treasure enchantments. this encourages explorting! [villagers are also economically changed](https://gitlab.com/supersaiyansubtlety/economical_villager_trading/). restocking is a bit more interesting with providing the need to buy all sell trades to refill all buy trades, and vice versa. this encourages more trading variety and getting that currency usage up!
 >   - [the wandering trader now sells treasure enchantments](https://github.com/Ineffa/Truly-Treasures) for a hefty price.
@@ -49,7 +49,8 @@ canvas modpack i made for my friends. a huge collection of fabric mods (sort of)
 >   - this pack includes [end remastered](https://github.com/Jack-Bagel/End-Remastered), which makes getting to late game a little more challenging. find 13 different eyes of ender by exploring!
 </details>
 
-instructions and version info are in the releases. if you need help or need more info look in the 'help.rar'!
+
+### instructions and version info are in the releases. if you need help or need more info look in the 'help.rar'!
 
 recommendations:
 - 8gb ram MINIMUM (probably) for singleplayer.
