@@ -27,6 +27,7 @@ canvas modpack i made for my friends. a huge collection of fabric mods (sort of)
 > - [heartbound](https://www.curseforge.com/minecraft/mc-mods/heartbond) introduces a teleport system. when crafting soul links from the mod, use a crafting table (actually, use a crafting table for *anything* from that mod please. **do not** craft it in terminals, otherwise the heartbound function for the soul links won't work!!!)
 > - you can now set up trading tables that have an inventory stock and villager-like trade function with the new currency. automatic trades between players can be made through this block.
 
+> ### ![icon](https://github.com/user-attachments/assets/a0d8c07d-4d2d-4298-9a29-74ce258ae5c2)
 <details>
 <summary>some more cool info:</summary>
 
@@ -50,9 +51,7 @@ canvas modpack i made for my friends. a huge collection of fabric mods (sort of)
 </details>
 
 
-> ### ![icon](https://github.com/user-attachments/assets/a0d8c07d-4d2d-4298-9a29-74ce258ae5c2)
-> ### instructions and version info are in the releases. if you need help or need more info look in the 'help.rar'!
-> 
+### instructions and version info are in the releases. if you need help or need more info look in the 'help.rar'!
 recommendations:
 - 8gb ram MINIMUM (probably) for singleplayer.
 - 10gb ram MINIMUM (most likely) for hosting a server.
