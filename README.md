@@ -2,7 +2,9 @@
 
 canvas modpack i made for my friends. a huge collection of fabric mods (sort of) balanced and made with the intention of a modded experience that doesn't take away from the main premise of minecraft like other huge modpacks, but instead adds onto it to create a fun experience that can be used decently on low-end pcs. has a bunch of tweaks, rpg and tech aspects, overhauls, and all-around quality of life. has a lot of love and effort put into it, worked on this for over 2 years and am happy with the results. enjoy!
 
-there are two expansions to this modpack that focus on different things. although **i think the pack is best experienced without them**. still, if you want to theme canvas into something either more rpg or tech focused then go for it, there's a readme in the 'expansions' folder within the pack. however, if you plan on playing on a server you're going to have to create the serverpack version for those expansions yourself.
+there are two different expansions to this modpack. **although i think the pack is best experienced without them**, especially for the first time.
+still, if you want to theme canvas into something either more rpg or tech focused then go for it, there's a readme in the 'expansions' folder within the pack.
+however, if you plan on playing on a server you're going to have to create the serverpack version for those expansions yourself!
 
 > ## ![CanvasDev](https://github.com/user-attachments/assets/d313aa56-7fbd-43d7-bf99-a45618315992) some notable info:
   
