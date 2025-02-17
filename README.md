@@ -2,7 +2,7 @@
 
 canvas modpack i made for my friends. a huge collection of fabric mods (sort of) balanced and made with the intention of a modded experience that doesn't take away from the main premise of minecraft like other huge modpacks, but instead adds onto it to create a fun experience that can be used decently on low-end pcs. has a bunch of tweaks, rpg and tech aspects, overhauls, and all-around quality of life. has a lot of love and effort put into it, worked on this for over 2 years and am happy with the results. enjoy!
 
-> ## ![CanvasDev](https://github.com/user-attachments/assets/d313aa56-7fbd-43d7-bf99-a45618315992) some notable info:
+> # ![icon](https://github.com/user-attachments/assets/a0d8c07d-4d2d-4298-9a29-74ce258ae5c2) some notable info:
   
 > - [automatic qol tree punching](https://github.com/hammertater/treechop). if you want to ignore the feature or have a timber-like enchantment make sure to hold shift while breaking.
 > - [when falling into the void in the end, you will not die](https://github.com/The-Fireplace-Minecraft-Mods/Unforgiving-Void). instead you will fall into the sky of the overworld. you can still die from fall damage, but at least you won't lose everything permanently!
