@@ -28,7 +28,7 @@ there are two different expansions to this modpack. i personally think the pack 
 
 > multiplayer features:
 > - [pinging](https://github.com/LukenSkyne/Minecraft-Ping-Wheel)! there is a ping system in this mod, you can ping with [z]! make sure to configure the appropriate channel for your teammates in your settings with [f6]. I have it set to 1 automatically.
-> - [proximity chat](https://github.com/plasmoapp/plasmo-voice), tweak settings with [y]. it's automatically on push to talk with [alt] to talk and [m] to mute.
+> - [proximity chat](https://github.com/plasmoapp/plasmo-voice), tweak settings with [y]. it's automatically on push to talk with [alt] to talk and ['] to mute.
 > - [heartbound](https://www.curseforge.com/minecraft/mc-mods/heartbond) introduces a teleport system. when crafting soul links from the mod, use a crafting table (actually, use a crafting table for *anything* from that mod please. **do not** craft it in terminals, otherwise the heartbound function for the soul links won't work!!!)
 > - you can now set up trading tables that have an inventory stock and villager-like trade function with the new currency. automatic trades between players can be made through this block.
 
