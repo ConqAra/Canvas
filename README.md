@@ -11,6 +11,7 @@ there are two different expansions to this modpack. i personally think the pack 
   
 > - [automatic qol tree punching](https://github.com/hammertater/treechop). if you want to ignore the feature or have a timber-like enchantment make sure to hold shift while breaking logs.
 > - [when falling into the void in the end, you will not die](https://github.com/The-Fireplace-Minecraft-Mods/Unforgiving-Void). instead you will fall into the sky of the overworld. you can still die from fall damage, but at least you won't lose everything permanently!
+> - speaking of dying, [there's a gravestone mod](https://github.com/ginsm/forgotten-graves)! minecraft has an annoying xp problem when it comes to death. due to the exponential nature of experience, dying with xp can either be too forgiving or too unforgiving. forgotten graves fixes this problem by keeping 20% of the total xp you had when you died in your grave. this makes dying a bit more fair, especially for players level 40 or higher. this mod has full compatibility with inventorio and also features a 'grave history' command that tracks players' inventories upon death incase the grave somehow disappears!
 > - you can manually crawl whenever now. just [shift + v] to toggle it. can be pretty handy or funny i guess.
 > - through [numismatic overhaul](https://github.com/wisp-forest/numismatic-overhaul) our economy has changed! emeralds are no longer used in 99% of trading. we now have a currency similar to terraria with bronze, silver, and gold coins. 10 silver coins are about equal to 1 emerald. these coins can be found by looting chests, killing illagers, and breaking pots underground. you have a purse located at the top right of your inventory that holds these coins for you with no capacity limit, being able to withdraw them at any time. dying will drop a percentage of these coins on the ground where you died, ignoring your gravestone.
 > - [you have health levels now](https://github.com/SmushyTaco/Health-Levels/)! it's the red bar besides your xp bar. when you get a certain amount of xp, you'll gain an extra heart! the level cap is 10, up to 10 extra hearts. the algorithm is exponentially 7 levels worth of xp (i.e. getting 7 to 14). calculations can be found in the config. to put it simply you need to reach level 70 to gain all 10 extra hearts. **be warned, if you die you lose your health levels**.
@@ -25,7 +26,7 @@ there are two different expansions to this modpack. i personally think the pack 
 >   - ametrine armor (found in the end, upgraded through either gilded or plain netherite) gives the same defense as gilded netherite, but also increases your max health by 3 hp per piece; 12 hp (6 hearts) with a full set. however it doesn't have any knockback resistance nor other specialities such as lava/fire immunity, so choose wisely!
 > - all gold weapons now attack faster, giving an additional 0.4 extra attack speed. i always found it weird how gold tools had this extra speed boost that made them unique, but gold weapons didn't.
 > - the recipe for a shield is slightly more expensive.
-> - ther are over 100+ new enchantments!
+> - there are over 100+ new enchantments!
 > - you can easily embrace your [create](https://github.com/Fabricators-of-Create/Create) autism in this pack!
 
 > multiplayer features:
