@@ -1,0 +1,4 @@
+- remove health levels for balance
+- remove fortune gives experience mod, incompatible with rpgdifficulty mod
+- remove inventorio, incompatible with bettercombat.
+- replace gildednetherite with version in rpg expansion for recipe balancing.

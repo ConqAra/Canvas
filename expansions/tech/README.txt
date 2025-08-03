@@ -1,0 +1,2 @@
+- remove fabric furnaces for balance.
+- remove slotlink for balance, ae2 will replace this mod as a more tech-focused refinement.
